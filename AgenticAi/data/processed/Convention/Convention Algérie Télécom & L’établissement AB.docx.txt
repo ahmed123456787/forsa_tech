@@ -1,0 +1,45 @@
+**AT/DG/DMCC/DCGP/CQC/LN/V2.0/FR/060/2023**
+
+**2023**
+
+14/09/2023
+
+**Version 2**
+
+La présente Convention a pour objet de définir les termes, conditions et modalités selon lesquelles Algérie Télécom met au profit des employés de **L’établissement AB** , des mesures préférentielles au titre des prestations de Télécommunications (Téléphonie et Internet).
+
+Ces tarifs préférentiels concernent les offres **Idoom ADSL** , **VDSL** , **FTTH** et **Idoom Fixe** .
+
+L’application des tarifs préférentiels au profit du personnel de **L’établissement AB** , est établie conformément aux tableaux ci-après :
+
+1. **Offres Idoom internet (ADSL, VDSL &amp;Fibre) :**
+
+| Palier   | Tarif (Da/Mois)   | Tarif     | Service            |
+|----------|-------------------|-----------|--------------------|
+| 20 Mbps  | 2 599             | **2 099** | ADSL ;VDSL & Fibre |
+| 50 Mbps  | 2 799             | **2 299** | ADSL ;VDSL & Fibre |
+| 100 Mbps | 2 999             | **2 399** | Fibre              |
+| 200 Mbps | 3 699             | **2 599** | Fibre              |
+| 300 Mbps | 3 999             | **2 799** | Fibre              |
+
+1. **Offres téléphonie Idoom Fixe :**
+
+| Idoom 250 Da/mois                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | Idoom 500 Da/mois   | Idoom 750 Da/mois   |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|---------------------|
+| - Illimité vers le local et national (tous réseaux confondus) ; - Bonus 500 Da vers le mobile ; - Un numéro Favori vers le mobile à 4 Da/Min - Illimité vers le local et national (tous réseaux confondus) ; - Bonus **1 500 Da** vers le mobile ; - **5 Da/Min** vers le mobile ; - **20% de réduction** vers **10 Destinations** à l’international ; - **02 jours** de connexion **offerts** par bimestre au paiement de la facture - **02 numéros Favoris** à **3 Da** /Min - Illimité vers le local et national (tous réseaux confondus) ; - Bonus **3000 Da** vers le mobile ; - **3 Da/Min** vers le mobile ; - **30%** de **réduction vers 50 Destinations** à l’international ; - **05 jours** de connexion offerte par bimestre au paiement de la facture - **05 numéros** Favoris à **2 Da** / **Min** - Remise de **30%** sur le forfait - Remise de **50%** sur le forfait - **350 Da** /Mois - **375 Da** /Mois - **Qui est concerné par la convention Algérie Télécom &amp; L’établissement AB ?** |                     |                     |
+| Remise de 10% sur le forfait                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |                     |                     |
+| 225 Da/Mois                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |                     |                     |
+
+La convention **Algérie Télécom &amp; L’établissement AB** est destinée à tous les employés **en activité** de **L’établissement AB.**
+
+- **Quel est le dossier à fournir ?**
+
+Les employés concernés de **L’établissement AB** , s'adresseront aux agences commerciales d'Algérie Télécom (ACTEL), pour bénéficier des mesures préférentielles, objet de cette convention, en fournissant :
+
+- **Pour une nouvelle demande :**
+- Attestation de travail ou tout autre document d’éligibilité aux tarifs préférentiels arrêté par **L’établissement AB** , dument signé par les Ressources Humaines ;
+- Une demande manuscrite ;
+- Une copie de la pièce d’identité ;
+- Une justification de l’adresse de l’employé ;
+- **Pour un basculement (ligne déjà existante) :**
+- Attestation de travail ou tout autre document d’éligibilité aux tarifs préférentiels arrêté par **L’établissement AB** , dûment signé par les Ressources Humaines ;

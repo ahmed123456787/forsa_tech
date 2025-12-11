@@ -1,0 +1,58 @@
+*
+
+**2025**
+
+**13/01/2025**
+
+**AT/DG/DCMI/DCGP/CQC/BI/V1.0/FR/139/2025**
+
+**Version 1**
+
+Une nouvelle convention a été conclue entre **L’établissement Q** et Algérie Télécom, visant à mettre en place des mesures préférentielles pour la fourniture de services Internet, à savoir **Idoom ADSL** , **VDSL** et **Idoom Fibre** , au profit du personnel en **activité.**
+
+L'application des tarifs préférentiels en faveur du personnel de **L’établissement Q** est définie conformément au tableau ci-dessous :
+
+- **Offres Internet (Idoom ADSL, VDSL et Idoom Fibre) :**
+
+| **Palier**   | **Tarif Grand Public (Da/Mois)**   | **Nouveau Tarif Préférentiel**   | **Service**   |
+|--------------|------------------------------------|----------------------------------|---------------|
+| **20 Mbps**  | **2 150 DA**                       | **1 075 DA**                     | **ADSL**      |
+| **50 Mbps**  | **2 350 DA**                       | **1 175 DA**                     | **VDSL**      |
+| **100 Mbps** | **2 550 DA**                       | **1 275 DA**                     | **VDSL**      |
+| **30 Mbps**  | **2 200 DA**                       | **1 100 DA**                     | **FTTH**      |
+| **60 Mbps**  | **2 400 DA**                       | **1 200 DA**                     |               |
+| **120 Mbps** | **2 600 DA**                       | **1 300 DA**                     |               |
+| **240 Mbps** | **2 800 DA**                       | **1 400 DA**                     |               |
+| **300 Mbps** | **3 000 DA**                       | **1 500 DA**                     |               |
+| **500 Mbps** | **3 600 DA**                       | **1 800 DA**                     |               |
+| **1.2 Gbps** | **4 200 DA**                       | **2 100 DA**                     |               |
+
+1. **Qui est concerné par cette convention ?**
+
+La convention signée entre Algérie Télécom et **L’établissement Q** vise le personnel **en activité.**
+
+1. **Quelles sont les démarches à suivre pour bénéficier des tarifs préférentiels de cette convention ?**
+
+Le personnel concerné par la présente convention est appelé à se présenter aux niveaux des Agences Commerciales d’Algérie Télécom pour bénéficier des mesures préférentielles.
+
+1. **Quel est le dossier à fournir ?**
+
+1. **Pour une nouvelle souscription :**
+2. Le bon d’ouverture de droit (formulaire de souscription) renseigné et signé par le responsable habilité de **L’établissement Q** ;
+3. L’attestation de travail ou fiche de paie ;
+4. Une copie de la pièce d’identité ;
+5. Une justification de l’adresse du bénéficiaire.
+
+1. **Pour une ancienne souscription (Basculement) :**
+2. Le bon d’ouverture de droit (formulaire de souscription) renseigné et signé par le responsable habilité de **L’établissement Q** ;
+3. L’attestation de travail ou fiche de paie.
+
+**Important : dans le cadre de la digitalisation nous vous informons que la demande manuscrite n’est plus requise pour toute nouvelle souscription. Cette simplification vise à rendre le processus plus rapide et pratique pour nos clients.**
+
+**__________________________________________________________________________________________**
+
+**Important :**
+
+**Nous vous rappelons que la messagerie «** ***Feedback*** **»** [**FB@algerietelecom.dz**](mailto:FB@algerietelecom.dz) **est exclusivement réservée aux demandes d’informations commerciales et aux clarifications sur les notes ou procédures établies. N’hésitez pas à nous faire part en cas de nécessité.**
+
+**_________________________________________________________________________________________**

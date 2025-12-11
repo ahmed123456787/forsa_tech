@@ -1,0 +1,88 @@
+**2025**
+
+**29/07/2025**
+
+**AT/DG/DCMI/DCGP/CQC/SR/V5.0/FR/176/2025**
+
+Convention d’Algérie Télécom au profit du personnel de L’établissement T
+
+**Version 5**
+
+Dans le cadre de la convention établie entre Algérie Télécom et **L’établissement T** , qui a pour objet la mise en place de mesures préférentielles pour la fourniture de prestations de télécommunication (téléphonie et internet), au profit du personnel de **L’établissement T en activité.**
+
+Elle définit les conditions, ainsi que les procédures pratiques dans lesquelles Algérie Télécom fournit aux personnels de **L’établissement T** , les prestations objet de cette convention.
+
+**Prestations concernées par les mesures préférentielles :**
+
+Les Meusers präferentielles proposées par Algérie Télécom, qui s'appliquent au personnel en **activité** de **l‘établissement T** les prestations de télécommunication suivantes:
+
+1. Service Internet :
+
+Création d'accès Internet IDOOM ADSL, VDSL et IDOOM FIBRE, dont les débits varient entre **20 Mbits** et **1.2Gbps** .
+
+1. **Idoom Fibre :**
+
+| **Palier**   | **Tarif (Da/Mois)**   | **Remise**   | **Nouveau Tarif Préférentiel**   | **Service**   |
+|--------------|-----------------------|--------------|----------------------------------|---------------|
+| **60 Mbps**  | **2 200 Da**          | **50%**      | **1 100 Da**                     | **FIBRE**     |
+| **120 Mbps** | **2 400 Da**          | **50%**      | **1 200 Da**                     | **FIBRE**     |
+| **240 Mbps** | **2 600 Da**          | **50%**      | **1 300 Da**                     | **FIBRE**     |
+| **480 Mbps** | **2 800 Da**          | **50%**      | **1 400 Da**                     | **FIBRE**     |
+| **600 Mbps** | **3 000 Da**          | **50%**      | **1 500 Da**                     | **FIBRE**     |
+| **1 Gbps**   | **3 600 Da**          | **50%**      | **1 800 Da**                     | **FIBRE**     |
+| **1.5 Gbps** | **4 200 Da**          | **50%**      | **2 100 Da**                     | **FIBRE**     |
+
+1. **Idoom ADSL et VDSL :**
+
+| **Palier**   | **Tarif (Da/Mois)**   | **Remise**   | **Nouveau Tarif Préférentiel**   | **Service**   |
+|--------------|-----------------------|--------------|----------------------------------|---------------|
+| **20 Mbps**  | **2 200 Da**          | **50%**      | **1 100 Da**                     | **ADSL**      |
+| **50 Mbps**  | **2 400 Da**          | **50%**      | **1 200 Da**                     | **VDSL**      |
+| **100 Mbps** | **2 600 DA**          | **50%**      | **1 300 DA**                     | **VDSL**      |
+
+**NB : Les avantages appliqués aux bénéficiaires de cette convention pour les offres IDOOM ADSL et VDSL restent inchangés.**
+
+1. **Service de téléphonie fixe IDOOM :** Lignes téléphoniques fixes IDOOM.
+
+|                     | Offre 1                                                       | Offre 2                                                          | Offre 3                                                          |
+|---------------------|---------------------------------------------------------------|------------------------------------------------------------------|------------------------------------------------------------------|
+| Local               | **Illimité**                                                  | **Illimité**                                                     | **Illimité**                                                     |
+| National            | **Illimité**                                                  | **Illimité**                                                     | **Illimité**                                                     |
+| Mobile              | Compteur  *(8 DA/min)*                                        | Compteur  *(5 DA/min)*                                           | Compteur  *(3 Da/min)*                                           |
+| Bonus vers mobile   | 500 Da/Mois                                                   | 1500 Da/Mois                                                     | 3000 Da/Mois                                                     |
+| International       | Compteur  *(grille actuelle)*                                 | **20%**  de réduction vers  **10 destinations**  internationales | **30%**  de réduction vers  **50 destinations**  internationales |
+| Tarif (Résidentiel) | **250 DA /**  ***mois***  *(abonnement Inclus)*  (+ compteur) | **500 DA/**  ***mois***  *(abonnement Inclus)*  (+ compteur)     | **750**  ***DA/mois***  *(abonnement Inclus)*  (+ compteur)      |
+| Remise              | **15%**                                                       | **20%**                                                          | **25%**                                                          |
+| Tarif               | **212 DA**  ***/mois (abonnement Inclus***  **+ compteur)**   | **400 DA/**  ***mois (abonnement Inclus***  **+ compteur)**      | **562 DA/**  ***mois (abonnement Inclus***  **+ compteur)**      |
+| Numéros favoris*    | 1 Numéro favoris à 4 DA/min                                   | 2 Numéro favoris à 3 DA/min                                      | 5 Numéro favoris à 2 DA/min                                      |
+
+- Le personnel de **L’établissement T** , bénéficie pour le service IDOOM Fixe de numéros favoris selon l'offre souscrite, comme mentionné dans le tableau ci-dessus.
+
+- **Remises des tarifs de communications vers le mobile et l'international, pour Idoom fixe 750 DA/Mois :**
+
+| **15% de réduction**  Sur les tarifs des mobiles   |    | **10% de réduction**   |    | **20% de réduction**   |    | **30% de réduction**   |
+|----------------------------------------------------|----|------------------------|----|------------------------|----|------------------------|
+|                                                    |    | Arabie Saoudite        |    | Allemagne              |    | Canada                 |
+|                                                    |    | Belgique               |    | Chine                  |    | Etats Unis             |
+|                                                    |    | France                 |    | Emirats Arabes Unis    |    | Suisse                 |
+|                                                    |    | Maroc                  |    | Espagne                |    |                        |
+|                                                    |    | Tunisie                |    | Italie                 |    |                        |
+|                                                    |    | Turquie                |    | Royaume-Uni            |    |                        |
+
+- **Modalités pratiques de mise en place et de suivi des mesures préférentielles :**
+
+Les mesures préférentielles objet de cette convention, applicables pour le personnel concerné de **L’établissement T** , concernent les prestations décrites précédemment, lors de leur mise en place pour la première souscription **(nouvelles demandes de téléphonie fixe et internet)** , ainsi que pour le personnel possédant des **prestations déjà en service** .
+
+Pour ce faire, le personnel concerné de **L’établissement T** , s'adresse aux agences commerciales d'Algérie Télécom, pour bénéficier de ces mesures préférentielles, en fournissant les pièces suivantes :
+
+- **Pour une nouvelle demande :**
+
+- Le bon d'ouverture de droit **(formulaire de souscription en annexe)** , renseigné et signé par le responsable de l'action sociale, habilité de **L’établissement T** ;
+
+- Une copie de la pièce d'identité ;
+
+- Une justification de l'adresse du bénéficiaire.
+
+- **Pour une prestation déjà en service :**
+
+- Le bon d'ouverture de droit **(formulaire de souscription en annexe)** , renseigné et signé par le responsable de l'action sociale, habilité de **L’établissement T** ;

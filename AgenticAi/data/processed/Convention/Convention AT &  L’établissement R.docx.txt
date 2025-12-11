@@ -1,0 +1,64 @@
+**AT/DG/DCMI/DCGP/CQC/BI/V1.0/FR/104/2024**
+
+**Convention Algérie Télécom L’établissement R**
+
+**Version 1**
+
+Algérie Télécom a conclu une convention avec **L’établissement R** en vue de mettre en place des mesures préférentielles pour la fourniture des services de télécommunication, notamment la téléphonie et l’internet, au profit Des **établissements R** démunies et non démunies
+
+Les tarifs préférentiels s'appliquent aux offres **IDOOM internet ADSL** , **VDSL** &amp; **Idoom Fibre** et **IDOOM Fixe** ainsi une possibilité de bénéficier du réseau IDOOM 4G LTE réservé uniquement pour les clients résidant sur les régions non desservies par la technologie filaire.
+
+1. **Quels sont les détails des offres concernées par la convention ?**
+
+Les informations relatives aux offres Internet sont précisées dans les deux tableaux selon la catégorie des **établissements R** :
+
+1. **Offres internet des établissements R démunies :**
+| **OFFRE IDOOM ADSL**  **20 Mbps**                                                                                     | **OFFRE IDOOM VDSL**  **50 Mbps**                                                                                     | **OFFRE IDOOM FIBRE**  **300 Mbps**                                                                                                            |
+|-----------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
+| **INTERNET A 2 700 DZD/MOIS**                                                                                         | **INTERNET A 2 900 DZD/MOIS**                                                                                         | **INTERNET A 3 100 DZD/MOIS**                                                                                                                  |
+| ✓ Un débit de 20 Mbps  ✓ Frais d’installation gratuits  ✓ 01 Adresse IP Internet Fixe offerte ;  ✓ 01 Boite mail 1 Go | ✓ Un débit de 50 Mbps  ✓ Frais d’installation gratuits  ✓ 01 Adresse IP Internet Fixe offerte ;  ✓ 01 Boite mail 1 Go | ✓ Un débit de 300 Mbps  ✓ Modem Optique Offert  ✓ Frais d’installation gratuits  ✓ 01 Adresse IP Internet Fixe offerte ;  ✓ 01 Boite mail 1 Go |
+
+1. **Offres internet des établissements R restantes :**
+| **OFFRE IDOOM ADSL**  **20 Mbps**                                                                                     | **OFFRE IDOOM VDSL**  **50 Mbps**                                                                                     | **OFFRE IDOOM FIBRE**  **300 Mbps**                                                                                                            |
+|-----------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
+| **INTERNET A 3 100 DZD/MOIS**                                                                                         | **INTERNET A 3 600 DZD/MOIS**                                                                                         | **INTERNET A 4 000 DZD/MOIS**                                                                                                                  |
+| ✓ Un débit de 20 Mbps  ✓ Frais d’installation gratuits  ✓ 01 Adresse IP Internet Fixe offerte ;  ✓ 01 Boite mail 1 Go | ✓ Un débit de 50 Mbps  ✓ Frais d’installation gratuits  ✓ 01 Adresse IP Internet Fixe offerte ;  ✓ 01 Boite mail 1 Go | ✓ Un débit de 300 Mbps  ✓ Modem Optique Offert  ✓ Frais d’installation gratuits  ✓ 01 Adresse IP Internet Fixe offerte ;  ✓ 01 Boite mail 1 Go |
+
+1. **Offre téléphonique :**
+
+| **TELEPHONIE A 450 DZD / MOIS**                                      |
+|----------------------------------------------------------------------|
+| ✓ Appels illimités vers le local, national et volte ;                |
+| ✓ Restriction gratuite des appels vers le mobile et l’international. |
+
+Nb : Les factures téléphoniques sont payées tous les deux mois (Paiement bimestriels)
+
+1. **Offre Idoom 4G LTE :**
+| **OPTION**                               | **AVANTAGES**                                                                                                                                               | **TARIF**    |
+|------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|
+| **Souscription à L’offre Idoom 4 G LTE** | - **CPE offert** - **Un volume de 500 Go** - **Validité de 30 jours** - **Appels illimités vers le réseau AT** - **Adresse IP fixe** - **Boite Mail 01 Go** | **2 900 Da** |
+| **Rechargement**                         | - **Un volume de 500 Go** - **Validité de 30 jours** - **Appels illimités vers le réseau AT**                                                               | **2 900 Da** |
+
+**NB :**
+
+**Pour la 4G LTE le paiement sera annuel.**
+
+**Les clients résidant dans les zones non desservies par la technologie filaire peuvent bénéficier du réseau IDOOM 4G LTE**
+
+1. **Quels sont les établissements Publics concernés par ladite convention ?**
+
+Les établissements visés par la convention sont **les ’établissements R** .
+
+1. **Comment doit-on procéder pour bénéficier de la présente convention ?**
+
+Pour profiter des offres mentionnées, un représentant de **L’établissement R** doit se rendre au niveau de l’agences commerciales d'Algérie Télécom.
+
+1. **Quel est le dossier à fournir par le responsable de L’établissement R ?**
+
+Le responsable de **L’établissement R** doit fournir le dossier suivant :
+
+- Un bon de commande signé par l'ordonnateur de **L’établissement R** ;
+
+- Une demande pour bénéficier des offres, comportant essentiellement, la dénomination et l’adresse de **L’établissement R** .
+
+**Important : Il est demandé aux conseillers clients de proposer aux clients non desservis par la technologie filaire l’offre Idoom 4G LTE.**

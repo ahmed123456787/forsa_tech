@@ -1,0 +1,60 @@
+**2025**
+
+**13/04/2025**
+
+**AT/DG/DCMI/DCGP/CQC/BI/V1.0/FR/153/2025**
+
+**Convention Algérie Télécom &amp; L’établissement k**
+
+**Version 1**
+
+Dans le cadre de la nouvelle convention conclue entre Algérie Télécom et **L’établissement k** , des mesures préférentielles ont été mises en place en faveur du personnel en **activité** relevant de **L’établissement k** , pour la fourniture de services de télécommunications, notamment la téléphonie fixe et l’accès à Internet.
+
+Ces avantages portent sur des tarifs préférentiels appliqués aux offres **IDOOM ADSL** , **VDSL** et **Fibre** ainsi qu’à l’offre **IDOOM Fixe** .
+
+L’application de ces conditions avantageuses se fait conformément aux tableaux tarifaires présentés ci-après :
+
+1. **Offres Idoom internet :**
+
+1. **IDOOM ADSL &amp; VDSL :**
+| **Débit**    | **Tarif (Da/Mois)**   | **Nouveau Tarif préférentiel**   | **Service**   |
+|--------------|-----------------------|----------------------------------|---------------|
+| **20 Mbps**  | **2 150 DA**          | **1 075 DA**                     | **ADSL**      |
+| **50 Mbps**  | **2 350 DA**          | **1 175 DA**                     | **VDSL**      |
+| **100 Mbps** | **2 550 DA**          | **1 275 DA**                     | **VDSL**      |
+
+1. **IDOOM FIBRE :**
+| **Débit**    | **Tarif (Da/Mois)**   | **Nouveau Tarif préférentiel**   | **Service**   |
+|--------------|-----------------------|----------------------------------|---------------|
+| **120 Mbps** | **2 600 DA**          | **1 300 DA**                     | **FIBRE**     |
+| **240 Mbps** | **2 800 DA**          | **1 400 DA**                     | **FIBRE**     |
+| **300 Mbps** | **3 000 DA**          | **1 500 DA**                     | **FIBRE**     |
+| **500 Mbps** | **3 600 DA**          | **1 800 DA**                     | **FIBRE**     |
+| **1.2 Gbps** | **4 200 DA**          | **2 100 DA**                     | **FIBRE**     |
+
+1. **Téléphonie fixe :**
+| **Forfait 250 Da/Mois**                                                                                                                                                                                                       | **Forfait 500 Da/Mois**          | **Forfait 750 Da/Mois**          |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------|----------------------------------|
+| - **Illimité vers le local et national ;** - **04 Da/Min vers le Mobile** - **Illimité vers le local et national ;** - **03 Da/Min vers le Mobile** - **Illimité vers le local et national ;** - **02 Da/Min vers le Mobile** |                                  |                                  |
+| **Remise de 10% sur le forfait**                                                                                                                                                                                              | **Remise de 20% sur le forfait** | **Remise de 30% sur le forfait** |
+| **225 Da/Mois**                                                                                                                                                                                                               | **400 Da/Mois**                  | **525 Da/Mois**                  |
+
+1. **Quel est le dossier à fournir ?**
+
+Les employés concernés de **L’établissement k** , s'adresseront aux agences commerciales et/ou points de présence d'Algérie Télécom, pour bénéficier des mesures préférentielles, objet de cette convention, en fournissant :
+
+- **Pour une nouvelle demande :**
+- Le formulaire de souscription renseigné et signé par le responsable habilité de **L’établissement k** ;
+- Une copie de la carte nationale d’identité ;
+- Une justification de l’adresse du bénéficiaire.
+
+- **Pour les clients déjà existants :**
+- Le formulaire de souscription renseigné et signé par le responsable habilité de **L’établissement k** .
+
+**____________________________________________________________________________________**
+
+**Important :**
+
+**Nous vous rappelons que la messagerie «** ***Feedback*** **»** [**FB@algerietelecom.dz**](mailto:FB@algerietelecom.dz) **est exclusivement réservée aux demandes d’informations commerciales et aux clarifications sur les notes ou procédures établies. N’hésitez pas à nous contacter en cas de besoin.**
+
+**___________________________________________________________________________________**

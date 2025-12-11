@@ -1,0 +1,53 @@
+**2025**
+
+**29/07/2025**
+
+**AT/DG/DCMI/DCGP/CQC/SR/V5.0/FR/171/2024**
+
+**Version 5**
+
+Dans le cadre de la convention établie entre Algérie Télécom, et **L’établissement W** , ayant pour objet la mise en place des mesures préférentielles pour la fourniture de prestations de télécommunications (Téléphone fixe et Internet), au profit du personnel, **en activité** de **L’établissement W** .
+
+Ces tarifs préférentiels concernent les offres Idoom   ADSL ,VDSL et Fibre et Idoom Fixe.
+
+L’application des tarifs préférentiels au profit du personnel, est établie conformément aux tableaux ci-après :
+
+1. **Offres Idoom internet :**
+
+- **Idoom FIBRE :**
+
+| **Débit**    | **Tarif (Da/Mois)**   | **Nouveau Tarif ( Da/Mois)**   | **Service**   |
+|--------------|-----------------------|--------------------------------|---------------|
+| **1.5 Gbps** | **4 200**             | **1 100**                      | **FIBRE**     |
+
+**NB :** **Les abonnés déjà existants bénéficiant de 1 Gbps sont automatiquement transférés vers le nouveau palier à 1.2 Gbps.**
+
+- **Idoom ADSL et VDSL :**
+
+| **Débit**   | **Tarif (Da/Mois)**   | **Nouveau Tarif ( Da/Mois)**   | **Service**   |
+|-------------|-----------------------|--------------------------------|---------------|
+| **20 Mbps** | **2 200**             | **800**                        | **ADSL**      |
+| **50 Mbps** | **2 400**             | **800**                        | **VDSL**      |
+
+**NB : Les avantages appliqués aux bénéficiaires de cette convention pour les offres Idoom ADSL et VDSL restent inchangés.**
+
+1. **Téléphonie :**
+
+| **Idoom Fixe**                                                                                                                 |                                                                                                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                                                                                                         |
+|--------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Forfait 250 Da/ Mois**                                                                                                       | **Forfait 500 Da/ Mois**                                                                                                                                                                                                                                                                                             | **Forfait 750 Da/ Mois**                                                                                                                                                                                                                                                                                                |
+| **-Illimité vers le local et national ;**  **- Bonus 500 Da vers le mobile**  **-01 Numéro favori vers le mobile à 4 Da/ Min** | **- Illimité vers le local et national ;**  **- Bonus 1 500 Da vers le mobile ;**  **- 5 Da/Min vers le mobile ;**  **- 20 % de réduction vers 10 Destination à l’international ;**  **- 02 jours de connexion offerte par bimestre au paiement de la facture ;**  **-02 Numéros favoris vers le mobile à 3 Da/Min** | **-Illimité vers le local et le national ;**  **- Bonus 3 000 Da vers le mobile ;**  **- 3 Da/Min vers le mobile ;**  **- 30 % de réduction vers 50 Destination à l’international ;**  **-05 Jours de connexion offerte par bimestre au paiement de la facture ;**  **- 05 Numéros favoris vers le mobile à 2 Da/ Min** |
+| **Remise de 10% sur le forfait**                                                                                               | **Remise de 20% sur le forfait**                                                                                                                                                                                                                                                                                     | **Remise de 30% sur le forfait**                                                                                                                                                                                                                                                                                        |
+| **225 Da/Mois**                                                                                                                | **400 Da/Mois**                                                                                                                                                                                                                                                                                                      | **525 Da/Mois**                                                                                                                                                                                                                                                                                                         |
+
+1. **Quel est le dossier à fournir ?**
+
+Les employés concernés de **L’établissement W** , s'adresseront aux agences commerciales d'Algérie Télécom (ACTEL), pour bénéficier des mesures préférentielles, objet de cette convention, en fournissant :
+
+- **Pour une nouvelle demande :**
+- Le bon d’ouverture de droit (Formulaire de souscription) renseigné et signé par le responsable de l’action social habilité de **L’établissement W** .
+- Une demande manuscrite ;
+- Une copie de la pièce d’identité ;
+- Une justification de l’adresse du bénéficiaire.
+- **Pour les clients déjà existants :**
+- Le bon d’ouverture de droit (Formulaire de souscription) renseigné et signé par le responsable de l’action social habilité de **L’établissement W** ;
