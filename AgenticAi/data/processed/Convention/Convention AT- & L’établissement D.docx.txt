@@ -1,0 +1,52 @@
+**AT/DG/DCMI/DCGP/CQC/BI/V2.0/FR/113/2023**
+
+**2024**
+
+**16/10/2024**
+
+**Convention Algérie Télécom &amp; Établissement D**
+
+**Version 2**
+
+Dans le cadre de la nouvelle mise à jour de la convention entre Algérie Télécom et l’Établissement D, cette dernière vise à définir les modalités et conditions dans lesquelles Algérie Télécom accorde aux employés de l’Établissement D du **personnel actif** des avantages préférentiels concernant les services de télécommunications, notamment la téléphonie et l'internet.
+
+Ces tarifs préférentiels concernent les offres **IDOOM INTERNET ADSL** , **VDSL** , **FTTH** et **IDOOM Fixe** .
+
+L’application des tarifs préférentiels au profit du personnel en activité de **l’Établissement D** , est établie conformément aux tableaux ci-après :
+
+1. **Offres Idoom internet (Idoom ADSL, VDSL &amp; Idoom Fibre) :**
+| **Palier**   | **Tarif actuel**  **(Da/Mois)**   |   **Nouveau Tarif préférentiel (Da/Mois)** | **Service**   |
+|--------------|-----------------------------------|--------------------------------------------|---------------|
+| **20 Mbps**  | 200  2                            |                                       2080 | xDSL/Fibre    |
+| **50 Mbps**  | 400 2                             |                                       2240 | xDSL/Fibre    |
+| **100 Mbps** | 600  2                            |                                       2400 | Fibre         |
+| **200 Mbps** | 2800                              |                                       2700 | Fibre         |
+| **300 Mbps** | 3000                              |                                      2800  | Fibre         |
+| **500 Mbps** | 3600                              |                                       3000 | Fibre         |
+| **1 Gbps**   | 4200                              |                                       3600 | Fibre         |
+
+1. **Offres téléphonie Idoom Fixe :**
+
+| **Forfait 250 DA/Mois**                                                                                                                                                                                                             | **Forfait 500 DA/Mois**          | **Forfait 750 DA/Mois**          |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------|----------------------------------|
+| - **Illimité vers le locale et nationale ;** - **04 Da/Min vers le Mobile** - **Illimité vers le locale et nationale ;** - **03 Da/Min vers le Mobile** - **Illimité vers le locale et nationale ;** - **02 Da/Min vers le Mobile** |                                  |                                  |
+| **Remise de 10% sur le forfait**                                                                                                                                                                                                    | **Remise de 20% sur le forfait** | **Remise de 30% sur le forfait** |
+| **225 Da/Mois**                                                                                                                                                                                                                     | **400Da/Mois**                   | **525 Da/Mois**                  |
+
+**N.B :** Les nouvelles mesures préférentielles relatives au personnel de **l’Établissement  D** annulent et remplacent les mesures préférentielles existantes.
+
+1. **Qui est concerné par la convention Algérie Télécom &amp; l’Établissement D?**
+
+La convention **Algérie Télécom &amp; Établissement D** est destinée à tous les employés **en activité**
+
+1. **Quel est le dossier à fournir ?**
+
+Les employés concernés de l **’Établissement D** , s'adresseront aux agences commerciales d'Algérie Télécom (ACTEL), pour bénéficier des mesures préférentielles, objet de cette convention, en fournissant :
+
+- **Pour une nouvelle demande :**
+- Une attestation de travail dument signée, ou un bulletin de paie récent signé ;
+- Une demande manuscrite ;
+- Une copie de la pièce d’identité ;
+- Une justification de l’adresse de l’employé ;
+- **Pour un basculement (ligne déjà existante) :**
+- Une attestation de travail dument signée, ou un bulletin de paie récent signé.

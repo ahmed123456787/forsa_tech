@@ -1,0 +1,70 @@
+**AT/DG/DCMI/DCGP/CQC/RA/V3.0/FR/144/2025**
+
+**Argumentaire nouvelle convention Algérie Télécom &amp; L’établissement N**
+
+**Version 3**
+
+Suite à la convention signée entre Algérie Télécom et **L’établissement N** , visant à mettre en place des tarifs préférentiels pour les services Idoom ADSL et Fibre, au profit du personnel en **activité** .
+
+Pour la partie téléphonie des tarifs préférentiels pour Idoom Fixe restent inchangés.
+
+1. **Quels sont les détails de ladite convention ?**
+
+La mise en œuvre de ces tarifs spéciaux en faveur du personnel en **activités** de **L’établissement N** .
+
+1. **Quels sont les services inclus dans cette convention ?**
+
+L’accord a pour objectif d'établir des tarifs préférentiels pour les services IDOOM Internet (ADSL, Fibre).
+
+1. **Offres Internet (Idoom ADSL, VDSL &amp; Idoom Fibre)**
+
+| **Palier**   | **Tarif en vigueur**   | **Tarif préférentiel**   | **Service**   |
+|--------------|------------------------|--------------------------|---------------|
+| **20 Mbps**  | **2 150 Da/Mois**      | **1 615 Da/Mois**        | **ADSL**      |
+| **50 Mbps**  | **2 350 Da/ Mois**     | **1 765 Da/Mois**        | **VDSL**      |
+| **100 Mbps** | **2 550 Da/ Mois**     | **1 913 Da/Mois**        | **VDSL**      |
+| **120 Mbps** | **2 600 Da/ Mois**     | **1 950 Da/Mois**        | **Fibre**     |
+| **240 Mbps** | **2 800 Da/ Mois**     | **1 960 Da/Mois**        | **Fibre**     |
+| **300 Mbps** | **3 000 Da/ Mois**     | **2 100 Da/Mois**        | **Fibre**     |
+| **500 Mbps** | **3 600 Da/ Mois**     | **2 340 Da/Mois**        | **Fibre**     |
+| **1.2 Gbps** | **4 200 Da/ Mois**     | **2 520 Da/Mois**        | **Fibre**     |
+
+1. **Téléphone fixe :**
+
+Il est porté à votre connaissance que les tarifs préférentiels Idoom fixe reste inchangés selon la convention précédemment établie.
+
+|                         | **Offre 1**                                        | **Offre 2**                                      | **Offre 3**                                       |
+|-------------------------|----------------------------------------------------|--------------------------------------------------|---------------------------------------------------|
+| **Local**               | **Illimité**                                       | **Illimité**                                     | **Illimité**                                      |
+| **National**            | **Compteur (3 DA/min)**                            | **Illimité**                                     | **Illimité**                                      |
+| **Mobile**              | **Compteur (8 DA/min)**                            | **Compteur (8 DA/min)**                          | **Compteur (Tarifs préférentiels)**               |
+| **International**       | **Compteur (grille actuelle)**                     | **Compteur (grille actuelle)**                   | **Compteur (Tarifs préférentiels)**               |
+| **Tarif (Résidentiel)** | **250 DA / mois (abonnement Inclus) (+ compteur)** | **500 DA/mois (abonnement Inclus) (+ compteur)** | **1000 DA/mois (abonnement Inclus) (+ compteur)** |
+| **Réduction**           | **20%**                                            | **30%**                                          | **40%**                                           |
+| **Tarif**               | **200 DA /mois (abonnement Inclus+ compteur)**     | **350 DA/mois (abonnement Inclus+ compteur)**    | **600 DA/mois (abonnement Inclus+ compteur)**     |
+| **Numéros favoris***    | **1 Numéro favoris à 4 DA/min**                    | **2 Numéro favoris à 3 DA/min**                  | **5 Numéro favoris à 2 DA/min**                   |
+
+| **15% de réduction**  Sur les tarifs des mobiles   |    | **10% de réduction**   |    | **20% de réduction**   |    | **30% de réduction**   |
+|----------------------------------------------------|----|------------------------|----|------------------------|----|------------------------|
+|                                                    |    | Arabie Saoudite        |    | Allemagne              |    | Canada                 |
+|                                                    |    | Belgique               |    | Chine                  |    | Etats Unis             |
+|                                                    |    | France                 |    | Emirats Arabes Unis    |    | Suisse                 |
+|                                                    |    | Maroc                  |    | Espagne                |    |                        |
+|                                                    |    | Tunisie                |    | Italie                 |    |                        |
+|                                                    |    | Turquie                |    | Royaume-Uni            |    |                        |
+
+1. **Quel est le dossier à fournir pour pouvoir bénéficier de ladite convention ?**
+
+Les personnels concernés de **L’établissement N** s'adresserons aux agences commerciales d'Algérie Télécom pour bénéficier des mesures préférentielles objet de cette convention, en fournissant les pièces suivantes :
+
+- Pour une nouvelle demande :
+- Le bon d’ouverture de droit (formulaire de souscription) renseigné et signé par le responsable habilité de **L’établissement N** ;
+- L’attestation de travail ou fiche de paie ;
+- Une copie de la pièce d'identité ;
+- Une justification d'adresse du bénéficiaire.
+
+- **Pour un client existant (résidentiel ordinaire) :**
+- Le bon d’ouverture de droit (formulaire de souscription) renseigné et signé par le responsable habilité de **L’établissement N** ;
+- L’attestation de travail ou fiche de paie ;
+
+**A titre d’information, les clients déjà bénéficière de la convention ne sont pas tenus de présenter un nouveau dossier.**

@@ -1,0 +1,120 @@
+**AT/DG/DCMI/DCGP/CQC/BI/V2.0/FR/075/2023**
+
+**Argumentaire « Bibliothèque numérique EKOTEB »**
+
+**24/12/2023**
+
+**Version 2**
+
+Algérie Télécom lance en partenariat avec **DAR EL OULA** , le nouveau service de bibliothèque numérique **E-BOOK (Livre numérique)** .
+
+Ce service permet d'explorer une étendue de connaissances, tout en mettant l'accent sur Littérature et Arts, Éducation et Jeunesse, Économie et Affaires, Sciences et Nature, Famille et Société, Loisirs et Divertissement, Santé, Connaissances spécialisées, et bien d'autres.
+
+1. **En quoi consiste l’application mobile EKOTEB ?**
+
+L’application EKOTEB est une bibliothèque électronique (livre électronique) où plus de **5000 livres** sont disponibles pendant la période d’abonnement.
+
+1. **A qui est destinée l’application EKOTEB ?**
+
+EKOTEB vise un public varié, incluant des étudiants, des universitaires, scientifiques, administratifs, lecteurs, des bibliothécaires et des chroniqueurs.
+
+1. **Quelles sont les catégories de livres disponibles sur l’application EKOTEB ?**
+
+Les livres disponibles via l’application **EKOTEB** , sont dans les catégories suivantes :
+
+| **1**   | Langage                   | Langue                   | لغة               |
+|---------|---------------------------|--------------------------|-------------------|
+| **2**   | Arts                      | Arts                     | فنون              |
+| **3**   | Biography and memoirs     | Biographie et mémoires   | بيوغرافيا ومذكرات |
+| **4**   | Economy and business      | Économie et affaires     | اقتصاد وأعمال     |
+| **5**   | Children and young people | Enfants et jeunes        | أطفال وناشئة      |
+| **6**   | Cook                      | Cuisine                  | طبخ               |
+| **7**   | Health                    | Santé                    | صحة               |
+| **8**   | History and Geography     | Histoire et géographie   | تاريخ وجغرافيا    |
+| **9**   | Agriculture and animals   | Agriculture et animaux   | زراعة وحيوانات    |
+| **10**  | Myths                     | Mythes                   | أساطير            |
+| **11**  | Press and Media           | Presse et Médias         | صحافة وإعلام      |
+| **12**  | Computer and Internet     | Ordinateur et Internet   | كمبيوتر وانترنت   |
+| **13**  | Woman and family          | La femme et la famille   | المرأة والعائلة   |
+| **14**  | The references            | Les références           | مراجع             |
+| **15**  | Science and nature        | Sciences et nature       | العلوم والطبيعة   |
+| **16**  | Sports and entertainment  | Sports et divertissement | رياضة وتسالي      |
+| **17**  | Philosophy                | Philosophie              | فلسفة             |
+| **18**  | Social Sciences           | Sciences sociales        | علوم اجتماعية     |
+| **19**  | Tourism and travel        | Tourisme et voyages      | سياحة ورحلات      |
+| **20**  | Customs traditions        | Traditions douanières    | عادات تقاليد      |
+| **21**  | Psychology                | Psychologie              | علم النفس         |
+| **22**  | Legal sciences            | Science juridiques       | علوم قانونية      |
+
+1. **Comment accéder à l’application EKOTEB ?**
+
+Après avoir acheté un voucher au niveau de l’agence commerciale ou Idoom Market, télécharger l’application **EKOTEB** via l’un des deux systèmes d’exploitation mobile Android ou IOS **.**
+
+- Créez un compte EKOTEB, puis entrez le code du voucher.
+- Accédez au menue et choisir son livre.
+
+1. **Est-ce que la bibliothèque EKOTEB dispose d'un accès web, mis à part l’application Android ?**
+
+**EKOTEB** est une application disponible et accessible uniquement sur Android et IOS.
+
+1. **Quels sont les tarifs dédiés aux abonnements EKOTEB ?**
+
+Des abonnements de **3 mois** , **6 mois** ou **12 mois** sont proposés, le détail de ces derniers est présenté dans le tableau ci-dessous :
+
+| **ABONNEMENTS**    | **Prix public TTC/DA**   |
+|--------------------|--------------------------|
+| **EKOTEB 12 mois** | 4 500,00                 |
+| **EKOTEB 6 mois**  | 3 000,00                 |
+| **EKOTEB 3 mois**  | 1 900,00                 |
+
+1. **Quelle est la durée de l’abonnement ?**
+
+Vous pouvez acheter un voucher pour **3 mois** , **6 mois** ou **un an** , puis utiliser un nouveau voucher pour mettre à jour l’abonnement.
+
+1. **Puis-je utiliser le même compte sur plusieurs appareils ?**
+
+Vous pouvez accéder à votre compte depuis n'importe quel appareil, mais vous ne pouvez pas vous connecter sur plusieurs appareils en même temps.
+
+1. **Comment ajouter un livre à ma bibliothèque ?**
+
+Pour ajouter des livres à votre bibliothèque et y accéder, assurez-vous d'abord de vous abonner, puis cliquez sur n'importe quel livre sur la page d'accueil ou sur les champs affichés et cliquez sur le bouton **« Ajouter »** .
+
+Le livre sera automatiquement transféré vers votre propre bibliothèque, afin que vous puissiez le télécharger sur votre appareil.
+
+1. **Combien de livres peuvent-ils être ajoutés à la fois ?**
+
+Vous pouvez ajouter jusqu'à **11 livres électroniques** et **1 livre audio** en même temps, pour ajouter plus de livres, vous devez supprimer un livre de la bibliothèque puis en ajouter un.
+
+**11. En quelle langue est le contenu des livres disponibles sur la bibliothèque EKOTEB ?**
+
+Le contenu des livres disponibles sur la bibliothèque numérique **EKOTEB** , est en **langue arabe** .
+
+**12. Puis-je utiliser l'application dans d'autres langues ?**
+
+L'application est disponible en trois langues arabe, français et anglais, vous pouvez changer la langue depuis la liste des services en page d'accueil.
+
+1. **Est-ce qu’il est possible d’effectuer une recherche d’un livre spécifique sur la bibliothèque EKOTEB ?**
+
+Effectivement, il est possible de rechercher un livre spécifique sur la bibliothèque de deux manières, soit en tapant le nom de l’auteur, soit le titre du livre.
+
+1. **Comment modifier la taille de la police et l’arrière-plan ?**
+
+Il est possible de modifier la taille de la police et l’arrière-plan **(Pour les livres non PDF)** , en cliquant sur le bouton **« Paramètres »** à partir du livre.
+
+1. **Comment créer un signet et y revenir ?**
+
+Il est possible de créer un signet en cliquant sur l’icône de la page à laquelle, il serait souhaitable de revenir plus tard.
+
+Pour accéder à la liste des références créées, cliquer sur le bouton **« Références »** et choisir le signet auquel le client souhaiterait revenir.
+
+1. **Comment utiliser le dictionnaire pour obtenir la définition d’un mot particulier ?**
+
+Pour utiliser le dictionnaire et obtenir la définition d’un mot, il suffit de cliquer dessus en choisissant **« Définition »** .
+
+1. **Existe-t-il un moyen de continuer à lire un livre, après la fermeture de l’application EKOTEB ?**
+
+**EKOTEB** enregistre le dernier emplacement de lecture, ce qui permet d’y revenir en appuyant sur le bouton **« Continuer la lecture »** .
+
+1. **À qui dois-je m'adresser en cas de problème ?**
+
+Vous avez la possibilité de nous contacter via notre support à l'adresse **E-mail** : [**contacte@dareloula.com**](mailto:contacte@dareloula.com) ou en appelant les numéros : **0770559871** ou **0770873420** .

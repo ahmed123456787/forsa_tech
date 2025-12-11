@@ -1,0 +1,85 @@
+**Mode opératoire**
+
+Commercialisation des Kits de branchements FTTH intérieurs et extérieurs :
+
+Ce mode opératoire vise à assurer une prise en charge rapide et efficace des réclamations liées aux kits de branchements FTTH d’intérieurs et d’extérieurs, en tenant compte des responsabilités du client et des délais d'acquisition des équipements. Il comprend la signalisation du problème par le client, le diagnostic effectué par l’équipe technique, et si nécessaire, le remplacement du kit défectueux.
+
+**Étapes à suivre :**
+
+1. **Réclamation du client :** Le client se rend dans une Agence Commerciale, Points de Présence ou contacte le centre d’appels pour signaler une coupure ou un dysfonctionnement de son accès FTTH.
+2. **Prise en charge par le conseiller client :** Le conseiller enregistre la réclamation sur NGBSS et déclenche le processus de rétablissement du dérangement.
+3. **Intervention technique à domicile** : L’équipe technique se rend au domicile du client pour réaliser un diagnostic et identifie un problème lié au kit de branchement, qu'il soit intérieur ou extérieur. Les éléments suivants doivent être pris en compte lors du remplissage de la fiche d'intervention :
+4. L'état de la défectuosité du kit ;
+5. L'évaluation du type de câblage requis, en précisant la longueur nécessaire ;
+6. Déterminer si le client est responsable du dérangement et obtenir son engagement pour l'achat du kit dans un délai de 48 heures.
+4. **Orientation de l’achat du kit de branchement :** Le binôme remet au client une copie de la fiche d'intervention contenant les informations du client, le type de câble approprié, la distance du kit à remplacer. Cette action ne sera engagée que si, lors du diagnostic, l'équipe technique constate que la coupure du câble est à la responsabilité du client. En revanche, si la coupure est due à un facteur externe non imputable au client, la réparation sera assurée par les structures techniques d'Algérie Télécom.
+5. **Installation et rétablissement du service :** Les techniciens s’engagent à intervenir dans un délai maximal de **48 heures** après l’achat du kit pour effectuer l’installation et rétablir le service.
+6. **Gestion du délai d'achat du kit :** Le client se rend ensuite à l'Agence Commerciale ou au Point de Présence pour finaliser l'achat du kit approprié dans les **48 heures** suivant le diagnostic muni de la copie de la fiche d’intervention. L'agence commerciale informera le CMP/unité qualité de service client pour déclencher l'intervention des techniciens au domicile du client. **Important :** Si le client refuse l'achat du kit ou ne procède pas à son acquisition durant les **48 heures** après le constat, l’orienteur procèdera à la clôture du ticket de dérangement. Le client sera informé que, sans l'achat du kit dans le délai imparti, le ticket sera automatiquement clôturé et il recevra un message de rétablissement.
+7. **Suivi :** Les coordonnées du client ainsi que celles du responsable de l’unité de gestion de la qualité doivent figurer sur la fiche d’intervention. Le responsable assurera un suivi régulier des cas et restera en contact direct avec le client pour l'informer de la nécessité d’acquérir le kit, afin de finaliser l’installation ou la réparation.
+
+**Nouvelle tarification des kits des branchements des clients FTTH :**
+
+1- Kit de branchement Intérieur :
+
+| **Type de kit**                                       | **Prix de vente en TTC**   |
+|-------------------------------------------------------|----------------------------|
+| **Kit De Branchement Client Intérieur (Immeuble)10M** | **1700**                   |
+| **Kit De Branchement Client Intérieur (Immeuble)20M** | **1900**                   |
+| **Kit De Branchement Client Intérieur (Immeuble)30M** | **2100**                   |
+| **Kit De Branchement Client Intérieur (Immeuble)40M** | **2200**                   |
+
+**2- Kit de branchement Extérieur :**
+
+| **Type de Kit**                                                   | **Prix de vente en TTC**   |
+|-------------------------------------------------------------------|----------------------------|
+| **Kit De Branchement Client Extérieur (Façade et Autoporte) 30M** | **2150**                   |
+| **Kit De Branchement Client Extérieur (Façade et Autoporté) 50M** | **2500**                   |
+| **Kit De Branchement Client Extérieur (Façade et Autoporte) 80M** | **3100**                   |
+
+**N.B :**
+
+- **Le prix de vente inclut le prix du kit en hors taxes, la TVA ainsi que les frais d'installation ;**
+- **La nouvelle tarification remplace et annule la précédente.**
+
+Fiche d'Intervention
+
+**1.** Informations Client :
+
+- **Numéro de Téléphone :** ……………………………………………………………………………………………..
+- **Nom et Prénom :** ………………………………………………………………………………………………………
+- **Numéro de Contact :** ………………………………………………………………………………………………..
+
+**2.** **Détails de l'Intervention** :
+
+- **Date et Heure de l'Intervention :** ……………………………………………………………………………..
+- **Équipe AT (Binôme) : Agent 1 et 2 :** …………………………………………………………………………
+- **CMP :** ………………………………………………………………………………………………………………………..
+- **ACTEL/DICTEL** : …………………………………………………………………………………………………………
+- **Coordonnées Chargé d’Unité Qualité :** …………………………………………………………………….
+
+**3.** Constat Établi :
+
+- **Description du Dérangement :** Le dysfonctionnement est lié au kit de branchement et nécessite le remplacement du kit défectueux
+- **Kit de branchement Intérieur** :
+
+Client Intérieur (Immeuble) :    10m                   20m                  30m                     40m
+
+- **Kit de branchement Extérieur** :
+
+Client Extérieur (Façade et Autoporté) :           30m                 50m                    80m
+
+**4.** **Responsabilité** **:** Coupure causée par le client Non    
+  Oui,   le client s’engage à l’acquisition du kit durant les **48 heures** :    Oui              Non
+
+Si, dans un délai de **48 heures** , l'achat du kit n'est pas effectué, votre signalisation sera clôturée et vous recevrez un message de rétablissement.
+
+Signature du client
+
+–
+
+**Observations Complémentaires :** …………………………………………………………………………………………..
+………………………………………………………………………………………………………………………………………………..
+
+**Nom et prénom et signature du Technicien :                                                 Signature du Client :**
+
+-----------------------------------                   -                                                                        -

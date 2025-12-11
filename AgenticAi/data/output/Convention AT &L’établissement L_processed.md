@@ -1,0 +1,60 @@
+**AT/DG/DCMI/DCGP/CQC/BI/V1.0/FR/134/2025**
+
+**2025**
+
+**12/02/2025**
+
+<!-- image -->
+
+Argumentaire convention entre ALGERIE TELECOM &amp; **L’établissement L** personnel en activité et ayants droit (ascendants et descendants)
+
+**Version 2**
+
+**Algérie Télécom** a conclu une convention avec **L’établissement L** en vue de mettre en place des mesures préférentielles pour la fourniture des services de télécommunication, notamment le service internet de Idoom ADSL, VDSL et Idoom Fibre, au bénéfice du personnel en **activité** et **ayants droit** ( **ascendants et descendants** )
+
+1. **Quelles sont les offres proposées par ALGERIE TELECOM ?**
+
+Les mesures préférentielles proposées par **ALGERIE TELECOM** sont applicables au personnel **L’établissement L,** concernent les prestations de télécommunications suivantes :
+
+- **Service Internet idoom ADSL, VDSL et Idoom Fibre.**
+
+1. **Qui sont les bénéficiaires visés par cette convention ?**
+
+Algérie Télécom s’engage à offrir au personnel en activité des avantages sur les services Internet Idoom ADSL, VDSL et Idoom Fibre.
+
+1. **Quelles sont les offres préférentielles concernées par cette convention ?**
+
+Ci-dessous les détails concernant les tarifs préférentiels :
+
+1. **Offres Internet (Idoom ADSL,VDSL et Idoom Fibre) :**
+| **Débit**     | **Tarif Gand Public (Da/Mois)**   | **Nouveau tarif préférentiel**   | **Service**         |
+|---------------|-----------------------------------|----------------------------------|---------------------|
+| **Palier 01** | **2 150 DA**                      | **1 075 DA**                     | **xDSL**            |
+| **Palier 02** | **2 200 DA**                      | **1 100 DA**                     | **FTTH**            |
+| **Palier 03** | **2 400 DA**                      | **1 200 DA**                     | **VDSL &amp; FTTH** |
+| **Palier 04** | **2 600 DA**                      | **1 300 DA**                     | **VDSL &amp; FTTH** |
+| **Palier 05** | **2 800 DA**                      | **1 400 DA**                     | **FTTH**            |
+| **Palier 06** | **3 000 DA**                      | **1 500 DA**                     | **FTTH**            |
+| **Palier 07** | **3 600 DA**                      | **1 800 DA**                     | **FTTH**            |
+| **Palier 08** | **4 200 DA**                      | **2 100 DA**                     | **FTTH**            |
+
+1. **Quel est le dossier à fournier pour bénéficier de la convention mentionnée ?**
+1. **Pour une nouvelle demande :**
+3. Attestation de travail ou un bulletin de paie récent ou carte professionnelle ;
+4. Une copie de la pièce d’identité valide ;
+5. Un justificatif d’adresse du bénéficiaire ;
+6. Une fiche familiale pour les ascendants et les descendants.
+
+1. **Pour client existant :**
+2. Attestation de travail ou un bulletin de paie récent dument signé par les ressources humaines ;
+3. Une fiche familiale pour les ascendants et les descendants.
+
+**NB : dans le cadre de la digitalisation nous vous informons que la demande manuscrite n’est plus requise pour toute nouvelle souscription. Cette simplification vise à rendre le processus plus rapide et pratique pour nos clients.**
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+
+**Important :**
+
+**Nous vous rappelons que la messagerie «** ***Feedback*** **»** [**FB@algerietelecom.dz**](mailto:FB@algerietelecom.dz) **est exclusivement réservée aux demandes d’informations commerciales et aux clarifications sur les notes ou procédures établies. N’hésitez pas à nous faire part en cas de nécessité.**
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**

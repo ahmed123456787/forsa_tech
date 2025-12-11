@@ -1,0 +1,65 @@
+**AT/DG/DCMI/DCGP/CQC/SR/V1.0/FR/193/2025**
+
+**2025**
+
+13/11/2025
+
+**Convention Algérie Télécom &amp; L’établissement P**
+
+**Version 1**
+
+Dans le cadre de la mise en place des tarifs préférentiels accordés au personnel du **L’établissement P** , vous trouverez ci-dessous les détails correspondants :
+
+1. **Tarifs préférentiels Internet (Idoom ADSL, VDSL &amp; Idoom Fibre), pour personnel L’établissement P :**
+
+- **Pour les cadres supérieurs de L’établissement P :**
+
+01 accès gratuit de **20 Mbps ADSL, 100 Mbps VDSL** ou **1.5 Gbps FTTH** .
+
+- **Pour le personnel et les retraités de L’établissement P :**
+
+01 accès de :
+
+- **20Mbps** ADSL ou **100Mbps VDSL** à **800DA** ,
+- **1.5 Gbps** FTTH à **1 100 DA.**
+
+1. **Tarifs préférentiels pour les ONT Wi-Fi 06 :**
+
+Le personnel concerné de **L’établissement P** qui disposent d’un **ONT WIFI 4 / WIFI 5** peuvent acquérir d’un **ONT WIFI 6** à un tarif préférentiel de **2000 DA** et de **3 500 Da** , Vous trouverez les détails dans le tableau ci-dessous :
+
+| **Catégorie**                                                    | **Tarif ONT Wi-Fi 06**   |
+|------------------------------------------------------------------|--------------------------|
+| **Cadre supérieurs**                                             | **3 500 Da**             |
+| **L’ensemble des salariés des catégories inferieurs à la « A »** | **2 000 Da**             |
+| **Retraités**                                                    | **3 500 Da**             |
+
+NB:
+
+- Algérie Télécom accorde un seul changement d'ONT par employé.
+- Les bénéficiaires sont tenus de restituer leurs anciens modems Wi-Fi 4 ou Wi-Fi 5 auprès des agences commerciales.
+
+- **Règles de gestions et Conditions de restitution ONT Wi-Fi 4/5 contre ONT Wi-FI 6 :**
+- **Restitution obligatoire** de l’ancien **ONT (Wi-Fi 4 ou 5)** et de son **adaptateur d’alimentation** dans une agence ou un point de présence de son rattachement.
+- **Présence du titulaire est obligatoire**
+- **Vérification du compte** par le conseiller sur **NGBSS** (activation du compte à J-1).
+- **Pigtail non restituée** : l’ONT Wi-Fi 6 est remis **sans pigtail**
+- **Signature obligatoire d’une décharge** par le titulaire lors de la remise de l’ONT Wi-Fi 6.
+
+- **Quel est le dossier à fournir ?**
+
+Les personnels concernés de **L’établissement P** s'adresseront aux agences commerciales d'Algérie Télécom (ACTEL), pour bénéficier des mesures préférentielles, en fournissant :
+
+**Pour les nouvelles demandes :**
+
+- La pièce d'identité ;
+- Une attestation de travail datant de moins de **3 mois** , pour le personnel toujours en activité ;
+- Un certificat de travail pour les retraités de **L’établissement P.**
+
+**Pour les clients déjà existants :**
+
+- Une attestation de travail datant de moins de 3 mois, pour le personnel toujours en activité ;
+- Un certificat de travail pour les retraités de **L’établissement P.**
+
+**Important :**
+
+**Nous vous rappelons que la messagerie «** ***Feedback*** **»** [**FB@algerietelecom.dz**](mailto:FB@algerietelecom.dz) est exclusivement réservée aux demandes d’informations commerciales et aux clarifications sur les notes ou procédures établies. N’hésitez pas à nous faire part en cas de nécessité.

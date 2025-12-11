@@ -1,0 +1,91 @@
+**AT/DG/DMCC/DCGP/CQC/LN/V1.0/FR/061/2023**
+
+**2023**
+
+06/09/2023
+
+**Version 1**
+
+Algérie Télécom se lance dans le e-commerce avec "Idoom Market". Cette plateforme en ligne vise à améliorer l'expérience client tout en s'alignant sur notre stratégie de digitalisation.
+
+L'objectif est de créer une plateforme attrayante, offrant une gamme variée de produits et de services, tout en garantissant la sécurité des données et une livraison efficace.
+
+1. **En quoi consiste la boutique en ligne « Idoom Market » ?**
+
+**Idoom Market** est une plateforme de commerce en ligne, qui permet aux clients de choisir parmi une gamme variée de produits et de services du **dépôt vente** , puis de les acheter en ligne en toute simplicité.
+
+1. **Comment fonctionne la boutique en ligne « Idoom Market » ?**
+
+En accédant à la boutique « Idoom Market », les clients ont la flexibilité de sélectionner un ou plusieurs articles de leur choix et de finaliser leurs achats, avec la possibilité de recevoir leur commande à l'adresse de leur choix.
+
+1. **Comment procéder à l’achat d’un produit via la boutique en ligne « Idoom Market » ?**
+
+Pour procéder à l’achat d’un produit sur la boutique en ligne d’Algérie Télécom, il suffit      de :
+
+- Accéder à la boutique en ligne, via le lien : **idoomarket-at.dz** ;
+- Faire une inscription (création de compte) ;
+- Valider la souscription ;
+- Effectuer une recherche pour trouver les produits / services souhaités ;
+- Ajouter les articles sélectionnés au panier ;
+- Sélectionner la société de livraison ;
+- Paiement de la commande en ligne et réception d’une confirmation d’achat ;
+- Suivi de l’envoi des commandes à l’aide d’un tracking number (Numéro de suivi).
+
+1. **Comment se fera la livraison des produits achetés ?**
+
+La livraison des produits sera assurée, par à un organisme spécicialisé.
+
+1. **Quels sont les délais de livraison après validation de la commande ?**
+
+Le client sera systématiquement renseigné sur les délais et les frais de livraison, lors de chaque confirmation de commande.
+
+Il est à noter, que ces délais peuvent varier en fonction de la société et de la destination.
+
+1. **Est-ce que la livraison est payante ?**
+
+La livraison est payante.
+
+Il est à noter, que le prix de la livraison varie en fonction de la société et de la destination.
+
+1. **Qui contacter en cas de problème ?**
+
+En cas de  problème de produit livré **(défectueux ou non conforme),** le client doit se rendre à l’agence commerciale la plus proche, dans un délai maximum de **96 heures** (ouvrables), suivant la réception du produit **.**
+
+**7-1 Est-ce-que le client peut formuler une demande de remboursement ? et comment ?**
+
+Oui, le client peut formuler une demande de remboursement via la boutique en ligne.
+
+**7-1-1 Cas produit non livré dans les délais :**
+
+Le client formule une demande de remboursement via la boutique en ligne, qui sera traitée par la **Cellule TME-R (DMI)** , dans le cas où le délai n’a pas été dépassé, aucun remboursement ne sera effectué.
+
+**7-1-2 Cas produit livré (défectueux ou non conforme) :**
+
+Le client se présente à l’ACTEL de son rattachement ou la plus proche pour la restitution du produit au cours des **96h (ouvrables),** à compter de la date de livraison, faute de quoi, sa demande de remboursement sera rejetée.
+
+**7-2 Quand-est-ce-que la demande de remboursement est jugée recevable ?**
+
+Une demande de remboursement est jugée recevable dans les cas suivants :
+
+- Délai de livraison dépassé ;
+- Produit défectueux ;
+- Produit non conforme.
+
+**8- Qui prend en charge la réclamation de (remboursement et remplacement) au niveau de l’actel ?**
+
+La réclamation sera prise en charge par le **Superviseur FO** de l’actel.
+
+**9- Quel est le délai pour se faire rembourser ?**
+
+Le délai de remboursement ne doit pas dépasser 15 jours à compter de la date de la demande de remboursement.
+
+**10- Quelles sont les conditions de recevabilité de ma demande de remplacement ?**
+
+Une demande de remplacement est jugée recevable dans les cas suivants :
+
+- Produit défectueux.
+- Produit non conforme (ne correspond pas au produit commandé initialement par le client).
+
+**11- Le produit livré est (défectueux ou non conforme) que dois-je faire ?**
+
+Le client se présente à l’ACTEL la plus proche, muni du bon de livraison, pour la restitution du produit au cours des 96h (ouvrables) à compter de la date de livraison, faute de quoi, il sera orienté vers les services SAV du déposant.

@@ -1,0 +1,63 @@
+**AT/DG/DCMI/DCGP/CQC/SR/V1.0/FR/126/2024**
+
+**2024**
+
+18/11/2024
+
+**Version 1**
+
+Suite à la convention conclue entre Algérie Télécom Spa et **L’établissement V** , des mesures préférentielles ont été instaurées pour la fourniture de services de télécommunication, incluant la téléphonie et l’Internet. Ces avantages sont spécifiquement destinés aux personnels en activité de **L’établissement V** , dans le cadre de cette collaboration.
+
+**Prestations concernées par les mesures préférentielles :**
+
+Les mesures préférentielles proposées par Algérie Télécom, destinées au personnel en activité de **L’établissement V** mentionnée ci-dessus, portent sur les prestations de télécommunication suivantes :
+
+- **Service Internet Idoom ADSL, VDSL et Fibre ;**
+- **Service Téléphonie Idoom Fixe.**
+
+1. **Service Internet :**
+
+Les tarifs préférentiels des offres Idoom ADSL, VDSL et Fibre, allant de **20** Mbps à **1,2** Gbps, destinés au personnel de **L’établissement V** , sont appliqués conformément au tableau ci-dessous :
+
+| **Palier**   | **Tarif (Da/Mois)**   | **Tarif Préférentiel**   | **Service**   |
+|--------------|-----------------------|--------------------------|---------------|
+| **20 Mbps**  | **2 150 Da**          | **1 075 Da**             | **ADSL**      |
+| **30 Mbps**  | **2 200 Da**          | **1 100 Da**             | **FIBRE**     |
+| **60 Mbps**  | **2 400 Da**          | **1 200 Da**             | **FIBRE**     |
+| **50 Mbps**  | **2 350 Da**          | **1175 Da**              | **VDSL**      |
+| **100 Mbps** | **2 550 Da**          | **1275 Da**              | **VDSL**      |
+| **120 Mbps** | **2 600 Da**          | **1 300 Da**             | **FIBRE**     |
+| **240 Mbps** | **2 800 Da**          | **1 400 Da**             | **FIBRE**     |
+| **300 Mbps** | **3 000 Da**          | **1 500 Da**             | **FIBRE**     |
+| **500 Mbps** | **3 600 DA**          | **1 800 DA**             | **FIBRE**     |
+| **1.2 Gbps** | **4 200 Da**          | **2 100 Da**             | **FIBRE**     |
+
+1. **Service téléphonie Fixe :**
+
+| **Forfait 250 Da/Mois**              | **Forfait 500 Da/Mois**              | **Forfait 750 Da/Mois**              |
+|--------------------------------------|--------------------------------------|--------------------------------------|
+| ✓ Illimité vers le local et national | ✓ Illimité vers le local et national | ✓ Illimité vers le local et national |
+| ✓ 04 Da/Min vers le Mobile           | ✓ 03 Da/Min vers le Mobile           | ✓ 02 Da/Min vers le Mobile           |
+| **225 Da/Mois**                      | **400 Da/Mois**                      | **525 Da/Mois**                      |
+
+1. **Qui est concerné pas cette convention ?**
+
+Les offres proposées par Algérie Télécom, sont applicables au profit du personnel en activité relevant de **L’établissement V** .
+
+1. **Comment puis-je bénéficier des tarifs préférentiels de la présente convention ?**
+
+Pour bénéficier des offres objet de cette convention, le personnel en activité relevant de **L’établissement V** doit s'adresser aux agences commerciales d'Algérie Télécom, en fournissant les pièces suivantes :
+
+- **Pour une nouvelle demande :**
+
+- Une copie de la carte professionnelle ou la carte nationale d'identité, le cas échéant,
+
+- Attestation de travail :
+
+- Une demande manuscrite signée par le concerné ;
+
+- Une justification de l'adresse de l'employé.
+
+- **Pour un basculement :**
+
+- Attestation de travail ou tout autre document d'éligibilité aux tarifs préférentiels dument signé par les ressources humaines.

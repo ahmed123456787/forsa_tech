@@ -1,0 +1,73 @@
+**2025**
+
+**29/07/2025**
+
+**AT/DG/DCMI/DCGP/CQC/SR/V5.0/FR/175/2024**
+
+**Convention Algérie Télécom &amp; L’établissement A**
+
+**Version 5**
+
+La présente convention établie entre **L’établissement A** , et Algérie Télécom, a pour objet la mise en place de mesures préférentielles pour la fourniture de prestations de télécommunication ( **téléphonie** et **Internet** ), au profit des personnels, **en activité** et **en retraite** de **L’établissement A** .
+
+Elle définit les conditions, ainsi que les procédures pratiques dans lesquelles Algérie Télécom, fournit aux personnels de **L’établissement A** les prestations objet de cette convention.
+
+- **Prestations concernées par les mesures préférentielles :**
+
+Les mesures préférentielles proposées par Algérie Télécom, sont applicables au personnel **en activité et retraité** de **L’établissement A** , concernent les prestations de télécommunication suivantes :
+
+1. Service Internet (XDSL &amp; FIBRE) :
+
+Création d'accès Internet Idoom ADSL, VDSL **Idoom Fibre** les débits varient entre **15 Mbits** jusqu’à **1.2Gbps** :
+
+1. **Service internet Idoom Fibre :**
+
+| **Palier**   | **Tarif (Da/Mois)**   | **Remise**   | **Nouveau Tarif Préférentiel**   | **Service**   |
+|--------------|-----------------------|--------------|----------------------------------|---------------|
+| **60 Mbps**  | **2 200 Da**          | **50%**      | **1 100 Da**                     | **FIBRE**     |
+| **120 Mbps** | **2 400 Da**          | **50%**      | **1 200 Da**                     | **FIBRE**     |
+| **240 Mbps** | **2 600 Da**          | **50%**      | **1 300 Da**                     | **FIBRE**     |
+| **480 Mbps** | **2 800 Da**          | **60%**      | **1 120 Da**                     | **FIBRE**     |
+| **600 Mbps** | **3 000 Da**          | **60%**      | **1 200 Da**                     | **FIBRE**     |
+| **1 Gbps**   | **3 600 Da**          | **60%**      | **1 440 Da**                     | **FIBRE**     |
+| **1.5 Gbps** | **4 200 Da**          | **60%**      | **1 680 Da**                     | **FIBRE**     |
+
+**NB : Un Test d'éligibilité sur la ligne est obligatoire**
+
+1. **Service internet Idoom ADSL et VDSL :**
+
+| **Palier**   | **Tarif (Da/Mois)**   | **Remise**   | **Nouveau Tarif Préférentiel**   | **Service**   |
+|--------------|-----------------------|--------------|----------------------------------|---------------|
+| **15 Mbps**  | **2 000 Da**          | **50%**      | **1 000 Da**                     | **ADSL**      |
+| **20 Mbps**  | **2 200 Da**          | **50%**      | **1 100 Da**                     | **ADSL**      |
+| **50 Mbps**  | **2 400 Da**          | **50%**      | **1 200 Da**                     | **VDSL**      |
+| **100 Mbps** | **2 600 Da**          | **50%**      | **1 300 Da**                     | **VDSL**      |
+
+1. **Service de téléphonie Idoom FIxe :**
+
+| **Forfait 250 Da/Mois**                                                                                                                                                                               | **Forfait 500 Da/Mois**   | **Forfait 750 Da/Mois**   |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|---------------------------|
+| - Illimité vers le local et national ; - 04 Da/Min vers le Mobile - Illimité vers le local et national ; - 03 Da/Min vers le Mobile - Illimité vers le local et national ; - 02 Da/Min vers le Mobile |                           |                           |
+| **200 Da/Mois**                                                                                                                                                                                       | **350 Da/Mois**           | **450 Da/Mois**           |
+
+- **Pour une nouvelle demande :**
+
+- Une copie de la carte professionnelle **ou** la carte nationale d’identité ;
+- Attestation de travail ;
+- Une justification de l'adresse du bénéficiaire.
+
+- **Pour bénéficier des mesures préférentielles d'une prestation déjà en service :**
+
+- Attestation de travail dument signé par les ressources humaines.
+
+**Important :**
+
+**Dans le cadre de la digitalisation nous vous informons que la demande manuscrite n’est plus requise pour toute nouvelle souscription. Cette simplification vise à rendre le processus plus rapide et pratique pour nos clients.**
+
+**_______________________________________________________________________________**
+
+**Important :**
+
+**Nous vous rappelons que la messagerie «** ***Feedback*** **»** [**FB@algerietelecom.dz**](mailto:FB@algerietelecom.dz) **est exclusivement réservée aux demandes d’informations commerciales et aux clarifications sur les notes ou procédures établies. N’hésitez pas à nous faire part en cas de nécessité.**
+
+**_______________________________________________________________________________**

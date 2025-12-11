@@ -1,0 +1,118 @@
+**2025**
+
+**28/09/2025**
+
+**AT/DG/DCMI/DCGP/CQC/BI/2.0/FR/187/2025**
+
+**Nouvelle offre IDOOM Medium Business pour nouvelle acquisition et Modernisation**
+
+**Version 2**
+
+La nouvelle offre est conçue pour les professionnels et entreprises moyennes, **IDOOM Medium Business** propose des débits élevés, une connectivité fiable et des services adaptés aux besoins des structures économiques en pleine transformation numérique.
+Une nouvelle **règle de gestion relative à la Modernisation** des clients professionnels vers l’offre **« Idoom Medium Business »** Cette mesure a pour objectif d’offrir aux entreprises disposant de plusieurs lignes téléphoniques, sans nécessité d’un accès Internet sur chacune d’elles, la possibilité de bénéficier, dans le cadre de **la modernisation** vers l’offre **Idoom Medium Business** , d’une ligne principale voix et data, selon le débit choisi, complété par des accès VOIP réservés aux accès sans data.
+
+1. Nouvelle acquisition :
+1. **Qui peut bénéficier de la nouvelle tarification ?**
+
+La cible de l’offre **IDOOM Medium Business** est conçue pour un type de client bien déterminé, sont les suivants :
+
+- STARTUP ;
+- Profession libérale ;
+- Artisan,
+- PME (Petite et Moyenne Entreprise) ;
+- PMI (Petite ou moyenne entreprise industrielle) ;
+- TPE (Très Petite Entreprise) ;
+- Associations
+- Hypermarchés.
+
+1. **Les nouveaux abonnés doivent-ils signer un contrat d’engagement ?**
+
+En effet, les nouveaux abonnés sont tenus de s'engager pour une période de **12** mois.
+
+1. Quels sont les détails de l’offre IDOOM Medium Business ?
+
+La nouvelle offre **IDOOM Medium Business** se décline comme suit :
+
+Dans le cadre d’une **nouvelle souscription** ou d’une **opération de modernisation** , le client est tenu de s’acquitter des frais suivants :
+
+- **Prix de l’ONT : 14 200,00 DZD** .
+- Frais d’installation : 6 000,00 DZD
+| **Débit**    | **Tarif Mensuel**   | **Avantages**                                                                                                   |
+|--------------|---------------------|-----------------------------------------------------------------------------------------------------------------|
+| **200 Mbps** | **16 000 DA**       | - **30 jours de connexion.** - **01 Adresse Ip Fixe.** - **Prise en charge prioritaire en agence commerciale.** |
+| **400 Mbps** | **27 000 DA**       |                                                                                                                 |
+| **800 Mbps** | **35 000 DA**       |                                                                                                                 |
+| **1,2 Gbps** | **40 000 DA**       |                                                                                                                 |
+| **1,6 Gbps** | **45 000 DA**       |                                                                                                                 |
+
+**NB :**
+
+- Pour tout abonnement de **03** mois et plus, l'équipement **ONT** et les frais d’installation sont Offerts.
+- Pour tout paiement annuel ( **12 mois** ), le client bénéficiera du **13** ème mois gratuitement.
+
+- **Service Ide téléphonie fixe doom fixe :**
+| **Offre**                 | **Idoom fixe**                       |
+|---------------------------|--------------------------------------|
+| **Tarif mensuel**         | 250 DA                               |
+| **Appels locaux**         | gratuits                             |
+| **Appels nationaux**      | Gratuits                             |
+| **Appels VoLTE**          | Gratuits                             |
+| **Appels vers mobiles**   | 8 DA / minute (indivisible)          |
+| **Appels internationaux** | Selon la grille tarifaire en vigueur |
+
+1. **Quel est le dossier à fournir pour bénéficier de cette nouvelle offre ?**
+2. Une copie de la Pièce d'Identité Nationale ;
+3. Un justificatif d'adresse ;
+4. En plus des documents administratifs requis, les clients visés doivent également fournir une preuve de leur appartenance à l'une des catégories cibles, telles qu'un extrait de registre de commerce, une carte professionnelle, un agrément, **une convention de I'ANSEJ, CNAC ou ANGEM,** une copie de la carte fiscale.
+
+1. **L’adresse IP fixe est-elle incluse dans la nouvelle offre et offerte gratuitement ?**
+
+En effet, l’adresse IP fixe est offerte sans frais supplémentaires, elle est incluse dans le pack.
+
+1. **Quel est le débit en upload inclus dans cette offre ?**
+
+Le débit en upload correspond à **30 % du débit en download** choisi par le client.
+
+1. **La cible de clients visée par cette nouvelle offre restent-elle éligible à l’offre MOOHTARIF, ou en est-elle exclue ?**
+
+Le client peut librement choisir entre l’offre **MOOHTARIF** et la nouvelle offre **IDOOM MEDIUM BUSINESS,** selon l'usages et besoins en bande passante.
+
+- **Un effort commercial ciblé peut également jouer un rôle déterminant pour orienter le client vers la nouvelle offre, en mettant en avant ses avantages adaptés à un usage professionnel.**
+
+1. Quels sont les avantages proposés dans la nouvelle offre IDOOM Medium Business ?
+2. Les avantages proposés dans cette nouvelle offre sont :
+3. 30 Jours de connexion
+4. 01 Adresse IP fixe
+5. Prise en charge prioritaire en agence commerciale.
+6. Pour tout abonnement de 03 mois et plus, l’équipement ONT et les frais d’installation sont offerts.
+7. Pour tout paiement effectué pour une durée de 12 mois, le client bénéficiera d’un 13ᵉ mois offert.
+2. **Modernisation :**
+1. **Quelle est la cible concernée par la modernisation vers l’offre Idoom Medium Business ?**
+
+La cible concerne les clients professionnels disposant déjà d’un accès **Idoom ADSL** ou **VDSL** souhaitant une modernisation vers l’offre Idoom Medium Business.
+
+1. **Quelles sont les nouvelles règles de gestion à la modernisation vers l’offre Idoom Medium Business ?**
+
+Les détails de cette modernisation sont présentés dans le tableau ci-dessous :
+
+| **Type d’accès**                  | **Offre associée**        | **ONT fourni**                               | **Conditions de souscription**                                                                                          |
+|-----------------------------------|---------------------------|----------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|
+| **Voix &amp; Data Tête de ligne** | **Idoom Medium Business** | **Wi-Fi 6**                                  | - **Prix de l’ONT : 14 200 DA.** - **Frais d’installation : 6000 DA** - **Redevance mensuelle : selon le débit choisi** |
+| **Voix uniquement**               | **Idoom Fixe 250 DA**     | **Wi-Fi 4 ou Wi-Fi 5 (Selon disponibilité)** | - **Frais d’accès par ligne : 3000 DA**                                                                                 |
+
+**NB :**
+
+- Pour tout abonnement internet de 03 mois ou plus, l'équipement ONT et les frais d’installation sont Offerts.
+- Pour tout paiement annuel (12 mois) d’internet, le client bénéficiera du 13ème mois gratuitement.
+
+1. **Que doivent régler les clients avant la modernisation vers l’offre Idoom Medium Business ?**
+
+Dans le cadre du processus de modernisation vers **l’offre Idoom Medium Business** , il est exigé que les clients s’acquittent préalablement de l’ensemble des factures impayées relatives à la téléphonie fixe.
+
+1. **Qui dois-je contacter en cas de problème ?**
+
+Pour toute information ou réclamation, veuillez-vous rapprocher de votre agence commerciale ou contacter le **101** à partir d’une ligne fixe ou mobile.
+
+**Important :**
+
+**Nous vous rappelons que la messagerie «** ***Feedback*** **»** [**FB@algerietelecom.dz**](mailto:FB@algerietelecom.dz) est exclusivement réservée aux demandes d’informations commerciales et aux clarifications sur les notes ou procédures établies. N’hésitez pas à nous faire part en cas de nécessité.

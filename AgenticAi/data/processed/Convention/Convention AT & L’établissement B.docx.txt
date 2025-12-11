@@ -1,0 +1,170 @@
+**AT/DG/DCMI/DCGP/CQC/SR/V6.0/FR/173/2025**
+
+**2025**
+
+29/07/2025
+
+**Convention Algérie Télécom &amp; L’établissement B**
+
+**Version 6**
+
+De nouveaux tarifs préférentiels aux profit du personnel de **L’établissement B** , ont été mis à jours.
+
+La présente Convention a pour objet de définir les termes, conditions et modalités selon lesquelles Algérie Télécom met au profit du personnel de **L’établissement B en activité, en retraite** , **invalide et veuve** , la mise en place d'une mesure préférentielle au titre des prestations de Télécommunications.
+
+Les tarifs préférentiels concernent les offres **Idoom Internet ADSL, VDSL et FTTH, Idoom Fixe** , ainsi que les produits dépôt-vente. **De plus** , le personnel actif de **L’établissement B** a la possibilité d'obtenir un **deuxième accès** avec des tarifs avantageux.
+
+1. **Qui est concerné par la convention de L’établissement B ?**
+
+La convention de **L’établissement B** est destinée au personnel **actif, retraité, invalide et veuve** relevant **L’établissement B** .
+
+1. **Quelles sont les prestations des tarifs préférentiels pour le personnel de L’établissement B ?**
+
+L’application de la mise à jour des tarifs préférentiels au profit du personnel de **L’établissement B** , est établie conformément aux tableaux ci-après :
+
+1. **Premier accès (Cible Personnel actif, retraité, invalide et veuve** **)** **:**
+
+- **Idoom ADSL et VDSL :**
+| **Palier**   | **Tarif (Da/Mois)**   | **Nouveau Tarif Préférentiel**   | **Service**   |
+|--------------|-----------------------|----------------------------------|---------------|
+| **15 Mbps**  | **2 000 Da**          | **1 000 Da**                     | **ADSL**      |
+| **20 Mbps**  | **2 150 Da**          | **1 075 Da**                     | **ADSL**      |
+| **50 Mbps**  | **2 350 Da**          | **1 120 Da**                     | **VDSL**      |
+| **100 Mbps** | **2 550 Da**          | **1 120 Da**                     | **VDSL**      |
+
+**NB : Les avantages appliqués aux bénéficiaires de cette convention pour les offres IDOOM ADSL et VDSL restent inchangés.**
+
+- **Idoom Fibre :**
+| **Palier**   | **Tarif (Da/Mois)**   | **Nouveau Tarif Préférentiel**   | **Service**   |
+|--------------|-----------------------|----------------------------------|---------------|
+| **60 Mbps**  | **2 200 Da**          | **1 100 Da**                     | **FIBRE**     |
+| **120 Mbps** | **2 400 Da**          | **1 120 Da**                     | **FIBRE**     |
+| **240 Mbps** | **2 600 Da**          | **1 120 Da**                     | **FIBRE**     |
+| **480 Mbps** | **2 800 Da**          | **1 120 Da**                     | **FIBRE**     |
+| **600 Mbps** | **3 000 Da**          | **1 200 Da**                     | **FIBRE**     |
+| **1 Gbps**   | **3 600 Da**          | **1 440 Da**                     | **FIBRE**     |
+| **1.5 Gbps** | **4 200 Da**          | **1 680 Da**                     | **FIBRE**     |
+
+1. **Deuxième accès (Cible personnel actif) :**
+
+| **Palier**     | **Tarif (DA/Mois)**   | **Nouveau Tarif Préférentiel**   | **Service**   |
+|----------------|-----------------------|----------------------------------|---------------|
+| **240 Mbps**   | **2 600 Da**          | **1 300 Da**                     | **FIBRE**     |
+| **480 Mbps**   | **2 800 Da**          | **1 400 Da**                     | **FIBRE**     |
+| **600 Mbps**   | **3 000 Da**          | **1 500 Da**                     | **FIBRE**     |
+| **1  Gbps**    | **3 600 Da**          | **1 800 Da**                     | **FIBRE**     |
+| **1.5   Gbps** | **4 200 Da**          | **2 100 Da**                     | **FIBRE**     |
+
+1. **Offres téléphonie Idoom Fixe :**
+
+| **Forfait 250 Da/Mois**                                                  | **Forfait 500 Da/Mois**                                                  | **Forfait 750 Da/Mois**                                                  |
+|--------------------------------------------------------------------------|--------------------------------------------------------------------------|--------------------------------------------------------------------------|
+| **-Illimité vers le local et national ;**  **-04 Da/Min vers le Mobile** | **-Illimité vers le local et national ;**  **-03 Da/Min vers le Mobile** | **-Illimité vers le local et national ;**  **-02 Da/Min vers le Mobile** |
+| **Remise de 20% sur le forfait**                                         | **Remise de 30% sur le forfait**                                         | **Remise de 40% sur le forfait**                                         |
+| **200 Da/Mois**                                                          | **350 Da/Mois**                                                          | **450 Da/Mois**                                                          |
+
+**Nb** **: les mesures préférentielles de la téléphonie sont valables uniquement pour le premier accès**
+
+1. **Étant un client conventionné retraité, invalide ou veuve puis je bénéficier d’un deuxième accès ?**
+
+**Le personnel retraité, invalide et veuves n’ouvrent pas droit à bénéficier d’un deuxième accès**
+
+1. **Produits dépôt vente :**
+
+- **Produits COMPNET :**
+
+| **Déposant**   | **Type de produit**   | **Produit**   | **Tarifs actuels**   | **Tarifs Préférentiels de l’établissement B**   |
+|----------------|-----------------------|---------------|----------------------|-------------------------------------------------|
+|                |                       |               | **DA/TTC**           | **DA/TTC**                                      |
+| **COMPNET**    | **Modem ADSL/VDSL**   | DSL-124       | 3800,00              | **3800,00**                                     |
+|                |                       | DSL-2750      | 4 800,00             | **4 430,00**                                    |
+|                |                       | DSL -G2452DG  | 9 300,00             | **8 130,00**                                    |
+|                |                       | DSL-245GE     | 9800,00              | **9800,00**                                     |
+|                |                       | DSL-X1852E    | 14900,00             | **14900,00**                                    |
+|                |                       | DSL-224       | 6 100,00             | **5 350,00**                                    |
+|                | **Point d'accès**     | DAP-1610      | 5 500,00             | **5 500,00**                                    |
+|                |                       | E15           | 8 800,00             | **8 100,00**                                    |
+|                |                       | DAP-X1860     | 9 800,00             | **8 620,00**                                    |
+|                |                       | DAP-1360      | 4 200,00             | **3 620,00**                                    |
+|                |                       | COVR1103      | 16 500,00            | **16 500,00**                                   |
+|                | **Répéteur Wifi**     | DIR-3040      | 12 200,00            | **10 730,00**                                   |
+|                |                       | DIR-822       | 5 200,00             | **4 570,00**                                    |
+|                |                       | DIR-X1860     | 14 400,00            | **12 670,00**                                   |
+|                |                       | DIR-X3260     | 17 900,00            | **15 750,00**                                   |
+|                |                       | DIR-X5460     | 22 500,00            | **19 800,00**                                   |
+|                |                       | DIR-X1560     | 13 000,00            | **11 440,00**                                   |
+|                |                       | DIR 612       | 3 910,00             | **3 440,00**                                    |
+|                |                       | DRA-1360      | 9 400,00             | **8 270,00**                                    |
+
+**NB :** Pour précision, le nombre de produits dépôt vente qui peut être commercialisé à cette catégorie de clientèle **(Conventionnés de l’établissement B)** , est limité à un seul produit par famille (modem, routeur, répéteur Wifi).
+
+- **Produits UPGRADE CC :**
+
+| **Déposant**   | **Produit**                       | **Tarifs actuels**   | **Tarifs Préférentiels établissement B DA/TTC**   |
+|----------------|-----------------------------------|----------------------|---------------------------------------------------|
+|                |                                   | **DA/TTC**           |                                                   |
+| **UPGRADE CC** | Modem ADSL  **(Tenda)  D305**     | 5 600,00             | **4 700,00**                                      |
+|                | Modem ADSL  **(Tenda) D301**      | 4 350,00             | **3 650,00**                                      |
+|                | Modem ADSL/VDSL  **(Tenda) V300** | 5 700,00             | **4 780,00**                                      |
+|                | Modem ADSL/VDSL  **(Tenda) V12**  | 11 500,00            | **9 660,00**                                      |
+|                | Routeur  **(Tenda) AC 23**        | 13 500,00            | **11 340,00**                                     |
+|                | Routeur  **(Tenda) F6**           | 4 300,00             | **3 610,00**                                      |
+
+**NB :** Pour précision, le nombre de produits dépôt vente qui peut être commercialisé à cette catégorie de clientèle **(Conventionnés de l’établissement B** ), est limité à un seul produit par famille (modem, routeur, répéteur Wifi).
+
+- **Produits DOROUSCOM :**
+
+| **Déposant**          | **Solution**                             | **Tarifs actuels**   | **Tarifs Préférentiels établissement B DA/TTC**   |
+|-----------------------|------------------------------------------|----------------------|---------------------------------------------------|
+|                       |                                          | **DA/TTC**           |                                                   |
+| **DOROUSCOM**         | Abonnement Mensuel (une matière)         | 500,00               | **450,00**                                        |
+| https://dorouscom.com | Abonnement Trimestriel (une matière)     | 1 200,00             | **1 080,00**                                      |
+|                       | Abonnement Annuel (une matière)          | 3 200,00             | **2 890,00**                                      |
+|                       | Abonnement Cours Intensifs (un chapitre) | 2 000,00             | **1 800,00**                                      |
+
+- **Les matières disponibles actuellement via « DOROUSCOM » sont :**
+- 5An Primaire : Arabe, Math, Français
+- 1An Moyen : Physique, Math, Français, Anglais
+- 2An Moyen : Physique, Math, Français, Anglais, Arabe
+- 3An Moyen : Physique, Math, Français, Anglais, Arabe, Sciences
+- 4An Moyen : Physique, Math, Français, Anglais, Arabe, Sciences
+- 1An Secondaire : Physique, Math, Arabe, Sciences
+- 2An Secondaire : Physique, Math, Arabe, Sciences
+
+–
+
+- **Pour les cours intensifs :**
+- 5An Primaire : Arabe, Math, Français
+- 4An Moyen : Physique, Math, Français, Anglais, Arabe, Sciences
+- 3An Secondaire : Physique, Math, Français, Anglais, Arabe, Sciences
+
+- **Cours en ligne MOALIM :**
+
+| **Déposant**   | **Description**                                                           | **Tarifs actuels DA/TTC**   | **Tarifs Préférentiels établissement B DA/TTC**   |
+|----------------|---------------------------------------------------------------------------|-----------------------------|---------------------------------------------------|
+| **INKIDIA**    | Maths-Physique-Sciences Trimestriel                                       | 3 500,00                    | **3 160,00**                                      |
+|                | Arabe-Français-Anglais Trimestriel                                        | 2 500,00                    | **2 260,00**                                      |
+|                | Histoire& Géographie- Sciences Islamique Trimestriel                      | 2 500,00                    | **2 260,00**                                      |
+|                | Maths-Physique-Sciences Annuel                                            | 10 500,00                   | **9 490,00**                                      |
+|                | Arabe-Français-Anglais Annuel                                             | 7 500,00                    | **6 780,00**                                      |
+|                | Histoire& Géographie- Sciences Islamique Trimestriel                      | 7 500,00                    | **6 780,00**                                      |
+|                | Préparation examens maths-physique et sciences Trimestriel                | 3 500,00                    | **3 160,00**                                      |
+|                | Préparation examens arabe- français et anglais Trimestriel                | 2 500,00                    | **2 260,00**                                      |
+|                | Préparation examens histoire-géographie et Sciences Islamique Trimestriel | 2 500,00                    | **2 260,00**                                      |
+
+Les packs disponibles actuellement destinés aux élèves des deux cycles Moyen et Secondaire (branche scientifique), sont :
+
+1. Pack MPS : Maths, Physique, Sciences (Offre Trimestrielle)
+2. Pack AFA : Arabe, Français, Anglais (Offre Trimestrielle)
+
+1. **Quel est le dossier à fournir ?**
+
+Les personnels concernés de **l’établissement B** , s'adresseront aux agences commerciales d'Algérie Télécom (ACTEL), pour bénéficier des mesures préférentielles, objet de cette convention, en fournissant :
+
+- Pour une nouvelle demande :
+- Le formulaire de souscription renseigné et signé par le responsable habilité de **l’établissement B** ;
+- Une copie de la carte nationale d’identité ;
+- Une justification de l’adresse du bénéficiaire.
+
+- Pour bénéficier des mesures préférentielles d'une prestation déjà en service :
+- Le formulaire de souscription renseigné et signé par le responsable habilité de **l’établissement B.**

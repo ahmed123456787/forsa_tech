@@ -1,0 +1,85 @@
+**AT/DG/DCMI/DCGP/CQC/BI/V1.0/FR/195/2025**
+
+**2025**
+
+**16/11/2025**
+
+**Nouvelle Offre Parrainage via l’application My Idoom  – version FR –**
+
+**Version 1**
+
+Dans le cadre de notre engagement envers nos clients nous lançons une **nouvelle offre de parrainage** visant à acquérir de nouveaux clients et fidéliser notre clientèle à travers l’application **My Idoom** . Notre objectif est d'encourager les clients résidentiels **Idoom Fibre** à recommander nos offres et services à leurs proches, qu'il s'agisse de leurs amis, famille, collègues ou connaissances.
+
+- **Points clés à retenir :** définitions (parrain / parrainé)
+| **Élément**     | **Description**                                                                                |
+|-----------------|------------------------------------------------------------------------------------------------|
+| **Le Parrain**  | Client existant  **Idoom Fibre**  qui recommande de nouveaux clients à s’abonner.              |
+| **Le Parrainé** | Nouveau client bénéficiaire de l’offre  **Idoom Fibre**  , recommandé par un parrain existant. |
+
+1. **Quelle est la cible de la nouvelle offre Parrainage ?**
+
+**Les clients résidentiels Idoom Fibre** : (Résidentiels, Locataire, Gamers et Gamers Locataire) sont éligibles.
+En revanche, **les clients conventionnés ne peuvent pas bénéficier de l’offre** , que ce soit comme parrain ou comme parrainé.
+
+1. **En quoi consiste l’offre Parrainage ?**
+
+Elle récompense les **clients Idoom Fibre existants** pour chaque nouveau client qu’ils parrainent.
+
+1. **Les détails de la nouvelle offre :**
+| **Client**   | **Durée accordée**   | **Débit accordé**                                                                                                      | **Cible**                                      |
+|--------------|----------------------|------------------------------------------------------------------------------------------------------------------------|------------------------------------------------|
+| **Parrain**  | **10 jours**         | **1.5 Gbps**                                                                                                           | **Clients résidentiels Idoom fibre existants** |
+| **Parrainé** | **1 mois**           | **Durant le premier mois, le client bénéficie d’un**  **débit supérieur**  **à celui choisi lors de sa souscription.** | **Nouveaux Clients résidentiels Idoom fibre**  |
+
+**NB :**
+
+- Une fois l’inscription et la validation sont effectuées par le parrainé sur My Idoom, l’attribution du bonus est automatiquement déclenchée pour le parrain et le parrainé.
+- Le parrain ayant un débit de 1,5 Gbps bénéficie de l’avantage durée uniquement.
+- L’offre est suspendue durant les promotions.
+
+1. **Conditions principales**
+1. **Pour le Parrain :**
+3. Être **client résidentiel Idoom Fibre actif** .
+4. Disposer d’un **compte My Idoom actif** et d’un **solde positif** .
+5. Renseigner l’adresse e-mail du parrainé sur espace client via l’application My Idoom.
+2. **Pour le Parrainé :**
+7. Être **nouveau client Idoom Fibre** et **éligible à la fibre** .
+8. Saisir correctement le **code de parrainage** (3 tentatives erronés → perte du bonus).
+9. Utiliser la **même adresse e-mail** que celle renseigné préalablement par le parrain sur l’application My Idoom.
+10. Le débit supérieur est accordé uniquement à compter de l’activation du compte My Idoom.
+11. Pour en bénéficier du bonus en totalité, le compte **doit être activé** le jour même de la mise en service.
+12. Créer et activer son **compte espace client sur My Idoom** dans les **7 jours suivant la mise en service,** au-delà de ce délai, le bonus est perdu pour le parrain et pour le parrainé.
+13. Le compte est créé via l’application My Idoom, puis peut être activé soit directement depuis l’application, soit via le site web (Espace Client).
+
+- **Règles importantes :**
+- Un **parrainé ne peut avoir qu’un seul parrain** .
+- Le **parrain ne peut pas s’auto-parrainer** .
+- Le **nombre de parrainages pour un parrain est illimité et le bonus est cumulable** .
+- Les **codes et mots de passe sont strictement personnels et confidentiels** .
+
+1. **Quelles sont les étapes à suivre sur l’espace client via l’application My Idoom pour le parrain et le parrainé ?**
+
+- Étapes à suivre pour un parrain disposant déjà d’un espace client sur My Idoom :
+- **Étape 1 :** Accéder à l’Espace Client.
+- **Étape 2 :** Saisir le numéro de téléphone et le mot de passe.
+- **Étape 3 :** Cliquer sur **Programme de parrainage** .
+- **Étape 4 :** Renseigner l’adresse e-mail et la confirmer, cocher la case des conditions générales, puis cliquer sur **Valider et envoyer** . (Code parrainage sera envoyé à l’adresse e-mail du parrainé)
+- **Étape 5 :** Un message de confirmation indique que l’opération a été effectuée avec succès.
+
+- Les étapes à suivre en tant que client parrainé :
+
+Après avoir reçu **le code de parrainage** sur son adresse e-mail, le parrainé doit se présenter à l’agence de son rattachement pour souscrire à une nouvelle offre idoom Fibre.
+
+**Étape 1 :** Accéder à l’Espace Client via l’application My Idoom.
+
+**Étape 2 :** Cliquer crée un nouveau compte.
+
+**Étape 3 :** Saisir le numéro de téléphone et le mot de passe, renseigner la même adresse e-mail que celle validée par le parrain et saisir le code de parrainage qui a été généré et envoyé préalablement par e-mail lors de l’inscription du parrain.
+
+**Étape 4 :** Un dernier code de confirmation sera transmis sur la même adresse e-mail du parrainé afin de la saisir et le valider.
+
+**NB :** **l’activation du compte espace client via My Idoom est conditionnée par la mise en service de la nouvelle ligne Idoom fibre.**
+
+**Important :**
+
+**Nous vous rappelons que la messagerie «** ***Feedback*** **»** [**FB@algerietelecom.dz**](mailto:FB@algerietelecom.dz) est exclusivement réservée aux demandes d’informations commerciales et aux clarifications sur les notes ou procédures établies. N’hésitez pas à nous faire part en cas de nécessité.

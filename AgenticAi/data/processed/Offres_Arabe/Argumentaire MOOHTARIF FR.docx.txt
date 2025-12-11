@@ -1,0 +1,166 @@
+**AT/DG/DCMI/DCGP/CQC/SR/V3.0/FR/135/2025**
+
+**2025**
+
+**07/01/2025**
+
+**Version  3**
+
+Dans le cadre de la révision de l'offre **MOOHTARIF** pour les **très petites entreprises (TPE) et les professions libérales** , nous nous engageons à offrir une expérience en ligne performante. Cette mise à jour vise à garantir une connectivité haut débit de qualité, avec des débits améliorés et des tarifs révisés, assurant ainsi un service supérieur et une accessibilité maximale.
+
+1. **Quelle est la cible de l’offre MOOHTARIF ?**
+
+L'offre **MOOHTARIF** cible les **très petites entreprises (TPE)** ainsi que les **professions libérales** , qu'ils soient des clients existants ou nouveaux.
+
+1. **Peut-on demander l'offre MOOHTARIF uniquement au niveau de l’agence ?**
+
+Vous avez la possibilité d'effectuer une demande pour l'offre MOOHTARIF seulement au niveau de l'agence commerciale.
+
+1. **Quels sont les détails de l’offre MOOHTARIF ?**
+
+**Abonnement Idoom ADSL et VDSL :**
+
+| **DEBIT ACTUEL**   | **TARIF ACTUEL**   | **NOUVEAU TARIF**   |
+|--------------------|--------------------|---------------------|
+| 15 Mbps            | 2 500 Da/Mois      | 2 500 Da/Mois       |
+| 20 Mbps            | 2 700 Da/Mois      | 2 650 Da/Mois       |
+| **50 Mbps**        | **2 900 Da/Mois**  | **2 850 Da/Mois**   |
+| **100 Mbps**       | **3 100 Da/Moi**   | **3 050 Da/Mois**   |
+
+**NB :**
+
+- **Les offres VDSL 50 et 100 Mbps selon l’éligibilité**
+- **La nouvelle offre annule et remplace l’offre MOOHTARIF actuelle.**
+
+**Abonnement Idoom Fibre :**
+
+Le tableau tarifaire présente l'offre en précisant les **anciennes** et **nouvelles** tarifications, ainsi que les débits liés à la nouvelle offre :
+
+| **DEBIT ACTUEL**   | **TARIF ACTUEL**   | **NOUVEAU DEBIT**   | **NOUVEAU TARIF**   |
+|--------------------|--------------------|---------------------|---------------------|
+| 15 Mbps            | 2 500 Da/Mois      | 15 Mbps             | 2 500 Da/Mois       |
+| **20 Mbps**        | **2 700 Da/Mois**  | **30 Mbps**         | **2 700 Da/Mois**   |
+| **50 Mbps**        | **2 900 Da/Mois**  | **60 Mbps**         | **2 900 Da/Mois**   |
+| **100 Mbps**       | **3 100 Da/Mois**  | **120 Mbps**        | **3 100 Da/Mois**   |
+| **200 Mbps**       | **3 300 Da/Mois**  | **240 Mbps**        | **3 300 Da/Mois**   |
+| 300 Mbps           | 3 500 Da/Mois      | 300 Mbps            | 3 500 Da/Mois       |
+| 500 Mbps           | 4 500 Da/Mois      | 500 Mbps            | 4 500 Da/Mois       |
+| **1 Gbps**         | **5 200 Da/Mois**  | **1.2 Gbps**        | **5 200 Da/Mois**   |
+
+**NB :**
+
+- **Le Débit de 1.2 Gbps est valable selon l’éligibilité**
+- **Un Upload de 3o% du Download sera offert aux clients moohtarif Idoom Fibre disposant d'un débit de 3oMbps et plus**
+- **La nouvelle offre annule et remplace l’offre MOOHTARIF actuelle.**
+
+1. **Quels sont les prix d’acquisition du pack Moohtarif ?**
+
+- **Client Idoom Fibre :**
+- Prix de l’ONT : 14 200,00 DZD
+- Frais d’installation : 6 000,00 DZD
+- Pour toute souscription de 03 mois ou plus, les frais d’installation et d'équipement ONT (clients FTTH) sont offerts.
+- **Client Idoom ADSL, VDSL :**
+- Modem : à la charge du client
+- Frais d’installation : 2 000,00 DZD
+- Pour toute souscription de 03 mois ou plus, les frais d’installation sont offerts.
+2. **Quelles sont les avantages de l’offre Moohtarif ?**
+
+Les avantages liés à l’offre moohtarif pour les clients Idoom ADSL, VDSL et Idoom Fibre sont les suivants :
+
+- Appels illimités vers le réseau d’Algérie Télécom
+- Adresse IP fixe à 500 Da/Mois
+- **Téléphonie :** le client devra souscrire à une des offres Idoom Fixe 250 Da, 500 Da ou 750 Da
+
+1. **C’est quoi le Upload ?**
+
+Le "upload" est la vitesse à laquelle vous envoyez des données depuis votre appareil vers Internet.
+
+1. **Qui peut bénéficier de l’offre Moohtarif ?**
+
+Pour souscrire à l’un de nos packs Moohtarif, il faudra faire partie de l’une de nos cibles, à savoir :
+
+- ANSEJ
+- CNAC
+- ANGEM
+- Professions libérales
+- Artisans
+- Commerçants tous secteurs confondus
+- Commerces de gros
+- Distributeurs
+- Association
+- Agences de voyage
+- Agences immobilières
+- Bureaux d’études Algériens (Registre de commerce algérien)
+- TPE
+- Startup.
+- Auto-entrepreneurs
+
+**NB :** Les agences d'assurances agréées doivent souscrire à l'offre professionnelle et non à l'offre MOOHTARIF.
+
+1. **Quels avantages bénéficiera un client MOOHTARIF en adoptant un mode de paiement électronique ?**
+
+Tout client MOOHTARIF présentant une attestation délivrée par Algérie Poste ou une banque, justifiant de l'acquisition d'un terminal de paiement électronique **(TPE)** dans son commerce, bénéficiera d’un modem ONT et d’une installation gratuite. Cette offre est valable lors de la souscription à une offre Idoom Fibre d’une durée minimale de 1 mois, au lieu de 3 mois, ou lors de la souscription à une offre Idoom ADSL ou VDSL d’une durée minimale de 1 mois, au lieu de 3 mois.
+
+1. **Quel est la durée de l’engagement ?**
+
+L’engagement s'étend sur une période de 12 mois.
+
+1. **Je suis déjà abonné à l’offre MOOHTARIF Idoom ADSL ou VDSL, quelle est la démarche à suivre pour bénéficier de la nouvelle tarification ?** La nouvelle tarification de l’offre MOOHTARIF Idoom ADSL, VDSL s’applique automatiquement aux clients existants.
+
+1. **Je suis déjà abonné à l’offre MOOHTARIF Idoom Fibre, quelle est la démarche à suivre pour bénéficier de la mise à jour des débits ?**
+
+La mise à jour des débits de l’offre MOOHTARIF Idoom Fibre est effectuée automatiquement pour les clients existants. En d'autres termes, les clients seront automatiquement basculés vers les nouveaux débits.
+
+**Produit dépôt vente client MOOHTARIF :**
+
+Une tarification privilégiée sur nos produits et solutions en mode dépôt-vente aux clients MOOHTARIF, qu'ils soient nouveaux ou anciens. Pour toute souscription à une offre de 20 Mbps ou plus.
+
+- **Equipements Réseaux :**
+
+1. **Equipements réseaux Tenda (Selon le stock disponible)**
+
+| **Produits**                                  | **Tarifs actuels**   | **Tarifs préférentiels**   |
+|-----------------------------------------------|----------------------|----------------------------|
+| **TENDA V12 (**  WiFi 5)  VDSL/ADSL + Routeur | 11 500,00  DA        | **11 000,00     DA**       |
+| **TENDA AC23**  (WiFi 5)  Routeur sans fil    | 13 500,00 DA         | **13 000,00 DA**           |
+
+**NB :** **Chaque client objet de cette offre, ouvre droit à une seule acquisition des divers produits et solutions dépôt vente aux tarifs remisés lorsqu'ils souscrivent à une offre internet de 20 Mbps ou plus, qu'ils soient nouveaux ou déjà clients.**
+
+- **Solutions &amp; Formations:**
+
+1. **Formation en Cybersécurité Shirudo (Serious Game)**
+
+| **Solutions**                     | **Tarifs actuels**   | **Tarifs préférentiels**   |
+|-----------------------------------|----------------------|----------------------------|
+| **License Shirudo 1 user 01 an**  | 46 410,00 DA         | **44 000,00 DA**           |
+| **License Shirudo 1 user 02 ans** | 89 964,00 DA         | **80 000,00 DA**           |
+| **License Shirudo 1 user 03 ans** | 128 520,00 DA        | **111 000,00 DA**          |
+
+1. **Logiciel de facturation Fatoura**
+| **Solutions**                            | **Tarifs actuels**   | **Tarifs préférentiels**   |
+|------------------------------------------|----------------------|----------------------------|
+| **FATOURA**  **logiciel de facturation** | 50 000,00 DA         | **45 000,00 DA**           |
+
+***NB ; Chaque client objet de cette offre, ouvre droit à une seule acquisition des divers produits et solutions dépôt vente aux tarifs remisés lorsqu'ils souscrivent à une offre internet de 20 Mbps ou plus, qu'ils soient nouveaux ou déjà clients.***
+
+1. **Quel est le dossier administratif à fournir ?**
+2. Une copie de la Pièce d’Identité Nationale ;
+3. Un justificatif d’adresse ;
+4. En plus des documents administratifs requis, les clients visés doivent également fournir une preuve de leur appartenance à l'une des catégories cibles, telles qu'un extrait de registre de commerce, une carte professionnelle, un agrément, une convention de l'ANSEJ, CNAC ou ANGEM, une copie de la carte fiscale.
+
+1. **Quelles sont les conditions liées à cette offre Moohtarif ?**
+2. Pour une nouvelle souscription le client à un engagement de 12 mois, il ne pourra pas descendre à une offre inférieure à celle souscrite ;
+3. Les offres Idoom fibre à 1,2 Gbps sont conditionnées par la génération de l’ONT « WIFI 6 »
+4. Le client MOOHTARIF ouvre droit à une seule acquisition des divers produits et solutions dépôt vente aux tarifs remisés lorsqu'ils souscrivent à une offre internet de 20 Mbps ou plus, qu'ils soient nouveaux ou existant.
+
+1. **J’ai un problème, qui dois-je contacter ?**
+
+Pour toute autre information et/ou réclamation, veuillez-vous rapprocher de votre agence commerciale ou appeler le **12** à partir des lignes fixe ou mobiles, un téléconseiller vous prendra en charge.
+
+___________________________________________________________________________________
+
+**Important :**
+
+**Nous vous rappelons que la messagerie «** ***Feedback*** **»** [**FB@algerietelecom.dz**](mailto:FB@algerietelecom.dz) **est exclusivement réservée aux demandes d’informations commerciales et aux clarifications sur les notes ou procédures établies. N’hésitez pas à nous contacter en cas de besoin.**
+
+**___________________________________________________________________________________**

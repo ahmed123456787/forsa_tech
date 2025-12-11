@@ -1,0 +1,73 @@
+**AT/DG/DCIM/DCGP/CQC/SR/V5.0/FR/160/2025**
+
+**2025**
+
+**14/07/2025**
+
+**Version 5.0**
+
+La nouvelle offre **Idoom Fibre Gamers** met en avant des vitesses de connexion encore plus élevées à des tarifs compétitifs. Elle propose une augmentation de débit atteignant **1.5 Gbps** , conçue spécifiquement pour satisfaire les gamers à la recherche de performances en ligne exceptionnelles. La nouvelle tarification est valable pour les clients existants ainsi que pour les nouveaux abonnés.
+
+1. **En quoi consiste la nouvelle offre Gamers ?**
+
+Cette offre s'adresse aux clients qui jouent en ligne, que ce soit sur ordinateur, console ou via des jeux vidéo en streaming.
+
+1. **Est-ce que le débit Internet offert est important dans l’offre Gamer ?**
+
+En plus du débit des nouveaux débits qui sont inclus, l'offre Idoom Fibre Gamers à **1.5 Gbps** met l'accent sur des critères essentiels pour le jeu en ligne, comme le Ping et l'Upload, avec une capacité d'Upload pouvant atteindre **900 Mbps** pour une performance optimale.
+
+1. **A qui est destinée la nouvelle offre Gamers ?**
+
+La nouvelle offre Gamers est destinée aux :
+
+- **Nouveaux Clients résidentiels ;**
+
+1. **Je souhaiterai souscrire à l’offre Idoom Fibre Gamers, quels sont les tarifs proposés ?**
+
+Le tableau tarifaire présente l'offre en précisant les anciens et les nouveaux paliers, ainsi que les tarifs associés à la nouvelle offre. Les détails de l’offre Idoom Fibre Gamers sont les suivants :
+
+| **Palier Actuel**   | **Nouveau Palier**   | **Nouveau  Tarif**   | **Avantages**                                                                       |
+|---------------------|----------------------|----------------------|-------------------------------------------------------------------------------------|
+| **30 Mbps**         | **60 Mbps**          | **2500 DA/Mois**     | **Modem Optique**  **+**  **01 Mois de connexion**  **+**  **Frais d’installation** |
+| **60 Mbps**         | **120 Mbps**         | **2800 DA/Mois**     |                                                                                     |
+| **120 Mbps**        | **240 Mbps**         | **3000 DA/Mois**     |                                                                                     |
+| **240 Mbps**        | **480 Mbps**         | **3400 DA/Mois**     |                                                                                     |
+| **300 Mbos**        | **600 Mbps**         | **4000 DA/Mois**     |                                                                                     |
+| **500 Mbps**        | **1 Gbps**           | **4600 DA/Mois**     |                                                                                     |
+| **1.2 Gbps**        | **1.5 Gbps**         | **5200 DA/Mois**     |                                                                                     |
+
+**N.B :**
+
+- **UPLOAD « 60% DU DEBIT » ;**
+- **Les Débits de 1 Gbps et 1.5 Gbps sont valable selon l’éligibilité ;**
+- **Cette offre remplace et annule l’offre précédente.**
+
+1. **Comment un client abonné à l'offre Idoom Fibre Gamers peut-il bénéficier de la nouvelle offre ?**
+
+Le basculement des clients existants vers la nouvelle offre se fait automatiquement.
+
+1. **Les nouveaux abonnés de l’offre Idoom Fibre Gamers sont-ils tenus de souscrire à un contrat d’engagement ?**
+
+En effet, les nouveaux abonnés sont tenus de s’engager pour une durée de **12** mois.
+
+1. **J’ai un problème, qui dois-je contacter ?**
+
+Pour toute autre information et/ou réclamation, veuillez-vous rapprocher de votre agence commerciale ou appeler le **12** à partir des lignes fixe ou mobiles, un téléconseiller vous prendra en charge.
+
+**_________________________________________________________________________________**
+
+**Bon à savoir :**
+
+1. **Ping** : Mesure le temps de réponse entre votre appareil et un serveur distant. Il indique la réactivité de la connexion.
+2. **Download** : Représente la vitesse à laquelle les données sont transférées de l'Internet vers votre appareil.
+3. **Upload** : Correspond à la vitesse à laquelle les données sont transférées de votre appareil vers l'Internet.
+
+À titre de rappel : **Le conseiller client doit mettre en œuvre un effort commercial ciblé pour cette catégorie de clientèle en présentant notre large sélection d'accessoires gaming (casques, claviers, souris, microphones, etc.) disponibles dans les agences commerciales d’Algérie Télécom, sous réserve de la disponibilité des stocks. L’objectif étant de favoriser la vente croisée (cross selling).**
+
+**____________________________________________________________________________________**
+
+**Important :**
+
+**Nous vous rappelons que la messagerie «** ***Feedback*** **»** [**FB@algerietelecom.dz**](mailto:FB@algerietelecom.dz) **est exclusivement réservée aux demandes d’informations commerciales et aux clarifications sur les notes ou procédures établies. N’hésitez pas à nous contacter en cas de besoin.**
+
+**____________________________________________________________________________________**

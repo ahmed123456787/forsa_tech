@@ -1,0 +1,75 @@
+**2025**
+
+**14/07/2025**
+
+**AT/DG/DCMI/DCGP/CQC/SR/V2.0/FR/159/2025**
+
+**Nouvelle offre WEEK-END BOOST de Idoom Fibre**
+
+**Version   2**
+
+Algérie Télécom enrichit l'expérience **Idoom Fibre** en offrant à ses clients la possibilité d'augmenter instantanément leur débit internet pendant les week-ends. Cette **nouvelle offre WEEK-END BOOST** permet de profiter d'une connexion optimisée pour le streaming, les jeux en ligne et les téléchargements importants. Les clients de **Idoom Fibre** peuvent ainsi tester des débits plus élevés et choisir l'abonnement qui leur convient le mieux, tout en bénéficiant d'une flexibilité pour adapter leur connexion à leurs besoins spécifiques du week-end.
+
+En résumé, Algérie Télécom propose une option flexible et avantageuse pour personnaliser l’expérience internet de Idoom Fibre durant le week-end.
+
+1. **Quelle est la cible visée dans cette offre WEEK-END BOOST Idoom fibre ?** La cible visée dans cette offre **WEEK-END BOOST** comprend les clients résidentiels abonnés à **Idoom Fibre** avec un débit allant de **120** Mbps jusqu’à **1** Gbps.
+2. **Quels sont les canaux d’activation dans cette offre ?** les canaux d’activation concernés par cette offre sont :
+3. **Espace client** .
+4. **My Idoom.**
+
+1. **Quels sont les détails de l’offre WEEK-END BOOST ?**
+1. **Tableau explicatif résumant l’offre :**
+
+| **Élément**               | **Détail**                                                                                                                                  |
+|---------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|
+| **Période d'activation**  | Disponible chaque vendredi à partir de  **00h01**  jusqu’au samedi à  **23h59**  .                                                          |
+| **Canaux d’activation**   | Espace Client sur le site web d'Algérie Télécom ou l’application My Idoom.                                                                  |
+| **Débits disponibles**    | De  **240**  Mbps jusqu’à  **1.5**  Gbps                                                                                                    |
+| **Avantage principal**    | Faire profiter les clients des débits ultra-rapides pour  **3**  à  **6**  jours, déduits de la durée de l’abonnement selon le débit choisi |
+| **Durée de consommation** | BOOST valable pendant  **48**  heures après activation                                                                                      |
+| **Usages recommandés**    | Streaming, gaming, téléchargements intensifs…                                                                                               |
+
+1. **Tableau des déductions :** Le tableau ci-dessous précise le nombre de jours déduits de la durée de validité de l'abonnement Internet, en fonction de l’augmentation de débit initial et du débit sélectionné dans le cadre de l'offre WEEKEND BOOST :
+| **Offre**  **WEEKEND BOOST**   |                 | **Débit Final et jours des déductions (après augmentation de débit)**   |               |               |             |               |
+|--------------------------------|-----------------|-------------------------------------------------------------------------|---------------|---------------|-------------|---------------|
+|                                |                 | **240   Mbps**                                                          | **480  Mbps** | **600  Mbps** | **1  Gbps** | **1.5  Gbps** |
+| **Débit Initial**              | **120    Mbps** | **3**                                                                   | **3**         | **4**         | **5**       | **6**         |
+|                                | **240  Mbps**   | **/**                                                                   | **3**         | **3**         | **4**       | **5**         |
+|                                | **480  Mbps**   | **/**                                                                   | **/**         | **3**         | **4**       | **4**         |
+|                                | **600  Mbps**   | **/**                                                                   | **/**         | **/**         | **3**       | **3**         |
+|                                | **1  Gbps**     | **/**                                                                   | **/**         | **/**         | **/**       | **3**         |
+
+💡 **Explication:**
+
+- **Débit Initial :** Le débit actuel de l’abonné.
+- **Débit Final :** Le débit choisi pour le **BOOST** .
+- **Jours déduits :** Nombre de jours déduits de l’abonnement en fonction du débit choisi.
+
+**👉 Exemple:** Si un client bénéficie d’un débit initial de **120 Mbps** et qu’il opte pour un **BOOST** à **1.5 Gbps** , une déduction de **6** jours sera appliquée sur la durée de son abonnement.
+
+1. **Les clients résidentiels conventionnés de l'offre Idoom Fibre bénéficient-ils de l'offre WEEK-END BOOST ?** Non, cette offre ne s'applique pas aux clients conventionnés de l'offre **WEEK-END BOOST** .
+2. **L'offre WEEK-END BOOST est-elle accessible aux clients résidentiels locataires de Idoom Fibre ?** Non, les clients locataires ne peuvent pas en bénéficier de l'offre **WEEK-END BOOST** .
+3. **Les abonnés de l'offre Idoom Gamer Fibre sont-ils éligibles à l'offre WEEK-END BOOST ?** Non, les clients de l'offre **Idoom Gamer Fibre** ne sont pas éligibles à cette offre.
+
+1. **Quand peut-on activer l’offre WEEK-END BOOST ?** L’offre est disponible chaque vendredi à partir de **00h01** jusqu’au samedi à **23h59.**
+2. **La validité de l'offre est-elle calendaire ou temporelle ?** La nouvelle offre **WEEK-END BOOST** est valable pendant **48** heures à compter de son activation, ce qui correspond à une validité **temporelle** . **Remarque : À titre informatif, deux types de validités existent :**
+3. **Validité calendaire** : L'offre expire à minuit, quelle que soit l'heure d'activation.
+4. **Validité temporelle** : L'offre est valable pour **48** **heures à partir de l'heure d'activation.**
+3. **Quels sont les paliers de débit disponible pour effectuer une augmentation de mon débit initial ?**
+
+Les débits disponibles pour augmentation sont les suivants : **240 Mbps, 480 Mbps, 600 Mbps, 1Gbps et 1.5 Gbps**
+
+1. **Les abonnés ayant un débit Idoom Fibre égal ou inférieur à 60 Mbps peuvent-ils bénéficier de cette offre ?**
+
+Non, les abonnés disposant d’un débit Idoom Fibre égal ou inférieur à **60 Mbps** ne sont pas éligibles pour bénéficier de cette offre.
+
+1. **Quel est l’avantage principal de l’offre WEEK-END BOOST ?** Cette offre permet aux clients Idoom fibre de bénéficier temporairement de débits internet plus rapides (augmentation de débit), avec une déduction proportionnelle sur leur abonnement initial, pour une durée de **3** à **6** jours selon le débit choisi. En résumé, c'est un **BOOST** de débit temporaire et ajustable.
+2. **À quels usages l’offre WEEK-END BOOST est-elle recommandée ?** **L’offre est idéale pour le streaming, le gaming et les téléchargements intensifs.**
+
+**___________________________________________________________________________________________**
+
+**Important :**
+
+**Nous vous rappelons que la messagerie «** ***Feedback*** **»** [**FB@algerietelecom.dz**](mailto:FB@algerietelecom.dz) **est exclusivement réservée aux demandes d’informations commerciales et aux clarifications sur les notes ou procédures établies. N’hésitez pas à nous faire part en cas de nécessité.**
+
+**___________________________________________________________________________________________**

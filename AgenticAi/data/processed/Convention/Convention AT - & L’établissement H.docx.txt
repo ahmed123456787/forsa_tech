@@ -1,0 +1,55 @@
+**2025**
+
+**31/07/2025**
+
+**AT/DG/DMCC/DCGP/CQC/SR/V3.0/FR/178/2025**
+
+**Convention Algérie Télécom &amp; L’Établissement H**
+
+**Version 3**
+
+La présente convention a pour objet de définir les termes, conditions et modalités selon lesquelles Algérie Télécom met au profit des employés de **L’Établissement H** en activité, des mesures préférentielles au titre de prestations de télécommunications (Téléphonie et Internet).
+
+Ces tarifs préférentiels concernent les offres **IDOOM INTERNET ADSL, VDSL, IDOOM FIBRE, IDOOM Fixe.**
+
+L’application des tarifs préférentiels au profit du personnel de **L’Établissement H** , est établie conformément aux tableau ci-après :
+
+1. **Offres Idoom internet (Idoom ADSL, VDSL&amp; Idoom Fibre) :**
+| **Débit**    | **Tarif Grand public**   | **Nouveau Tarif préférentiel**   | **Service**   |
+|--------------|--------------------------|----------------------------------|---------------|
+| **20 Mbps**  | **2150 DA**              | **1 075 DA**                     | **ADSL**      |
+| **50 Mbps**  | **2350 DA**              | **1 175 DA**                     | **VDSL**      |
+| **100 Mbps** | **2 550 DA**             | **1 275 DA**                     | **VDSL**      |
+| **30 Mbps**  | **2 200 DA**             | **1 100 DA**                     | **FIBRE**     |
+| **60 Mbps**  | **2 400 DA**             | **1 200 DA**                     | **FIBRE**     |
+| **120 Mbps** | **2 600 DA**             | **1 300 DA**                     | **FIBRE**     |
+| **240 Mbps** | **2 800 DA**             | **1 400 DA**                     | **FIBRE**     |
+| **300 Mbps** | **3 000 DA**             | **1 500 DA**                     | **FIBRE**     |
+| **500 Mbps** | **3 600 DA**             | **1 800 DA**                     | **FIBRE**     |
+| **1.2 Gbps** | **4 200 DA**             | **2 100 DA**                     | **FIBRE**     |
+
+1. **Offres Téléphonie :**
+| **IDOOM FIXE**                                                                                                                                                                                                                      |                         |                         |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------|-------------------------|
+| **Forfait 250 DA/Mois**                                                                                                                                                                                                             | **Forfait 500 DA/Mois** | **Forfait 750 DA/Mois** |
+| - **Illimité vers le locale et nationale ;** - **04 Da/Min vers le Mobile** - **Illimité vers le locale et nationale ;** - **03 Da/Min vers le Mobile** - **Illimité vers le locale et nationale ;** - **02 Da/Min vers le Mobile** |                         |                         |
+| **225 Da/Mois**                                                                                                                                                                                                                     | **400Da/Mois**          | **525 Da/Mois**         |
+
+**NB :** Les employé de **L’Établissement H** ayant déjà souscris aux offres d’Algérie Télécom seront automatiquement basculés vers les nouvelles offres.
+
+- **Qui est concerné par la convention Algérie Télécom &amp; L’Établissement H?**
+
+La convention Algérie Télécom &amp; **L’Établissement H** est destiné à tous les employés **en activité de L’Établissement H.**
+
+- **Quel est le dossier à fournir ?**
+
+Les employés concernés de **L’Établissement H** , s’adresseront aux agences commerciales d’Algérie Télécom, pour bénéficier des mesures préférentielles, objet de cette convention, en fournissant :
+
+- **Pour une nouvelle demande :**
+- Attestation de travail ou tout autre document d’éligibilité aux tarifs préférentiels arrété par **L’Établissement H** , dument signé par les Ressources Humaines ;
+- Une copie de la pièce d’identité ;
+- Une justification de l’adresse de l’employé ;
+- Formulaire d’attribution des mesures préférentielles pour les employé dûment complété et signé.
+- **Pour un basculement (ligne déjà existante) :**
+- Attestation de travail ou tout autre document d’éligibilité aux tarifs préférentiels arrêté par **L’Établissement H** , dûment signé par les Ressources Humaines ;
+- Formulaire d’attribution des mesures préférentielles pour les employés dûment complété et signé.

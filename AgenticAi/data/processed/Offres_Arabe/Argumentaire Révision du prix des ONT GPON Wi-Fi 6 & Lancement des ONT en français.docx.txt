@@ -1,0 +1,159 @@
+**AT/DG/DCMI/DCGP/CQC/BI/V1.0/FR/190/2025**
+
+**2025**
+
+**04/11/2025**
+
+**Argumentaire : Révision du prix des ONT GPON Wi-Fi 6 et Lancement des ONT XGS-PON**
+
+**Version   1**
+
+Dans le cadre de notre stratégie de modernisation des équipements clients, nous poursuivons nos efforts pour offrir à notre clientèle la meilleure expérience Internet à domicile ainsi, deux actions majeures sont engagées :
+
+1. La révision à la baisse du prix des ONT GPON Wi-Fi 6, afin d’encourager le renouvellement des anciens équipements Wi-Fi 4 et 5.
+2. L’introduction d’une nouvelle génération d’ONT XGS-PON Wi-Fi 6, marquant une étape importante vers l’ultra haut débit.
+
+Ces mesures visent à renforcer l’offre IDOOM FIBRE, stimuler la demande, et préparer le réseau à la prochaine évolution technologique : le XGS-PON.
+
+#### 1 Quelle est la  Cible ?
+Clients résidentiels IDOOM FIBRE :
+
+### 💰 DÉTAILS TARIFAIRES:
+
+| **Technologie**     | **Fournisseurs**                  | **Tarif actuel (DZD/TTC)**   | **Nouveau tarif (DZD/TTC)**   | **Conditions**                                                                                          | **Service associé**   |
+|---------------------|-----------------------------------|------------------------------|-------------------------------|---------------------------------------------------------------------------------------------------------|-----------------------|
+| **G-PON Wi-Fi 6**   | **Huawei, FiberHome, ZTE, Nokia** | **14 200**                   | **7 000,00**                  | **Restitution de l’ancien ONT Wi-Fi 4/5**                                                               | **IDOOM FIBRE**       |
+| **XGS-PON Wi-Fi 6** | **Huawei, FiberHome**             | **—**                        | **14 200,00**                 | **Sous réserve de disponibilité des cartes compatibles XGS-PONRestitution de l’ancien ONT Wi-Fi 4/5/6** | **IDOOM FIBRE**       |
+
+🔸 *NB :* **Les conditions d’éligibilité à l’ONT XGS-PON Wi-Fi 6**
+
+- Le client doit disposer d’un **débit minimum de 1 Gbps** .
+- Le client doit être **raccordé à une carte XGS-PON** .
+- Le client doit se trouver dans une **zone équipée par Huawei ou FiberHome** .
+- Le **conseiller client** doit **vérifier la disponibilité des cartes compatibles XGS-PON** via le **site officiel d’Algérie Télécom** avant toute proposition ou vente.
+
+**2. Pour les clients existant qui remplissent les conditions d’avoir un ONT XGS-PON et détiennent un ONT Wi-Fi 6 peuvent-ils restituer contre leurs anciens ONT G-PON ?** Oui, les clients existants qui remplissent les conditions pour bénéficier d’un ONT XGS-PON et qui détiennent déjà un ONT Wi-Fi 6 peuvent restituer leur ancien ONT G-PON afin d’obtenir le nouvel équipement.
+
+#### 3. Pourquoi baisser le prix du G-PON Wi-Fi 6 ?
+Cette révision tarifaire vise à :
+
+- Encourager les clients disposant d’un ancien ONT (Wi-Fi 4 ou 5) à le remplacer par un modèle plus performant à travers sa restitution.
+- Uniformiser le parc client avec du matériel moderne.
+- Stimuler la satisfaction client grâce à une meilleure couverture Wi-Fi et une navigation plus fluide.
+
+#### 4. Quelle est la différence entre les technologies GPON et XGS-PON ?
+
+| **Critère**      | **GPON**              | **XGS-PON**         |
+|------------------|-----------------------|---------------------|
+| Débit descendant | **Jusqu’à 2,5 Gbps**  | **Jusqu’à 10 Gbps** |
+| Débit montant    | **Jusqu’à 1,25 Gbps** | **Jusqu’à 10 Gbps** |
+
+Le XGS-PON représente l’évolution naturelle de la fibre, préparant Algérie Télécom à offrir des ultra hauts débits.
+
+#### 5. Quels clients peuvent acheter un ONT XGS-PON Wi-Fi 6 ?
+Seuls Les clients:
+
+- Disposant d’un abonnement IDOOM FIBRE avec un débit minimum de 1 Gbps et plus ;
+- Qu’il soit **r** accordé sur une carte compatible XGS-PON, peuvent acquérir ce type d’équipement ;
+- Zones équipés par **Huawei** et **FiberHome** ;
+- Test d’éligibilité concluant sur le site.
+
+**La vérification de l’éligibilité des clients s’effectue sur le site officiel d’Algérie Télécom, disponible en trois (03) langues, aux liens suivants :**
+
+**FR :** [**https://www.algerietelecom.dz/fr/tester-eligibilite-modem-XGS-PON**](https:\www.algerietelecom.dz\fr\tester-eligibilite-modem-XGS-PON) **AR :** [**https://www.algerietelecom.dz/ar/tester-eligibilite-modem-XGS-PON**](https:\www.algerietelecom.dz\ar\tester-eligibilite-modem-XGS-PON) **EN :** [**https://www.algerietelecom.dz/en/tester-eligibilite-modem-XGS-PON**](https:\www.algerietelecom.dz\en\tester-eligibilite-modem-XGS-PON)
+
+**Une fois sur le lien, veuillez suivre les cinq (05) étapes ci-dessous pour effectuer le test d’éligibilité des modems XGS-PON :**
+
+**• Illustration 1 : capture d’écran d’un test d’éligibilité concluant
+• Illustration 2 : capture d’écran d’un test d’éligibilité non concluant**
+
+Cela garantit une compatibilité totale entre l’équipement et le réseau, assurant la pleine performance du très haut débit.
+
+#### 6.  Que se passe-t-il si le client n’est pas éligible au XGS-PON ?
+Le client pourra uniquement acquérir un ONT GPON Wi-Fi 6, compatible avec l’infrastructure actuelle de son quartier. Le XGS-PON Wi-Fi 6 sera disponible ultérieurement lorsque son réseau sera modernisé.
+
+#### 7. Quelle est la différence de prix entre les deux modèles ?
+
+- GPON Wi-Fi 6 : 7 000 DA TTC (au lieu de 14 200 DA), sous condition de restitution de l’ancien ONT Wi-Fi 4 ou 5.
+- XGS-PON Wi-Fi 6 : 14 200 DA TTC, sous réserve de la disponibilité technique (carte XGS-PON) avoir un débit de 1 Gbps et plus.
+
+#### 8. Quels avantages pour le client ?
+
+- Meilleure performance Wi-Fi **.**
+- Connexion stable même avec plusieurs appareils.
+- Préparation à l’avenir l’ONT XGS-PON est prêt pour les futures offres ultra haut débit.
+- Prix attractif **.**
+
+9. Je détiens un ONT Wi-Fi 6 G-PON. Puis-je le restituer afin d’obtenir un nouveau ONT Wi-Fi 6 XGS-PON ?
+Oui, la restitution est possible. Si le client remplit les conditions prévues dans le cadre de l’offre, il peut bénéficier d’un nouvel ONT Wi-Fi 6 XGS-PON au tarif de 14 200 DA.
+
+10. La présence du titulaire de la ligne à l’agence est-elle obligatoire pour la restitution du modem ONT ?
+Oui, la présence du titulaire est obligatoire pour restituer l’ancien modem ONT au niveau de l’agence commerciale de son rattachement.
+
+#### 2 Exemple d’argument commercial à utiliser face au client :
+
+« Grâce à ce modem ONT Wi-Fi 6 G-PON, vous profitez d’une connexion plus rapide, plus stable et mieux adaptée aux foyers connectés. Et avec la réduction exceptionnelle à 7 000 DA, vous modernisez votre équipement à un tarif très avantageux ! »
+
+1. **Client disposant d’ancien ONT Wi-Fi 4/5 ou Wi-Fi 6 G-PON :**
+
+« Pour nos clients à très haut débit (1 Gbps et plus), nous proposons désormais le modem XGS-PON Wi-Fi 6, la toute dernière génération, conçue pour l’Internet du futur au tarif de 14 200 DA. »
+
+**Important :**
+
+**Nous vous rappelons que la messagerie «** ***Feedback*** **»** [**FB@algerietelecom.dz**](mailto:FB@algerietelecom.dz) est exclusivement réservée aux demandes d’informations commerciales et aux clarifications sur les notes ou procédures établies. N’hésitez pas à nous faire part en cas de nécessité.
+
+**DOT : ………………………………………**
+
+**ACTEL : …………………………………….**
+
+**Décharge**
+
+**Restitution ONT Wi-Fi 4 et 5 et remise d’un modem ONT Wi-Fi 6 GPON / XGS-PON**
+
+Je soussigné(e), Madame/Monsieur **……………...........…………………………….,** titulaire de l’abonnement FTTH n° **[Numéro de l'abonnement] ……………………….………………** , atteste par la présente avoir restitué à **Algérie Télécom** le **modem** (ONT) ainsi que son **adaptateur d’alimentation** (Chargeur) en conservant le **pigtail** de mon ancien **ONT** . Le pigtail du nouvel **ONT Wi-Fi 6** devra, quant à lui, être retiré par le conseiller client avant sa remise au client.
+
+- **Référence  ancien modem : ……………………………………………………………………………………………………………**
+- **Numéro de série  ancien modem :……………………………………………………………………………………………………**
+
+En contrepartie, j’ai reçu un modem **Wi-Fi 6** , dans le cadre des tarifs en vigueur. Je reconnais avoir remis l’équipement en bon état de fonctionnement et accepte les termes et conditions de cette restitution et du changement d’équipement.
+
+- **Référence du modem Wi-Fi 6 :** …………………………………………………………………………………………………….
+- **Numéro de série modem Wi-Fi 6 :** ……………………………………………………………………………………………….
+
+**Pour l’Agence Commerciale                                                                                     L’intéressé**
+
+**Nom et prénom : …………………………………………                            Nom et prénom : ……………………………**
+
+**Fonction ……………………………………**
+
+**Signature                                                                                        Signature**
+
+**Fait à ……………………………, le ………/………/………**
+
+**DOT : ………………………………………**
+
+**ACTEL : …………………………………….**
+
+**Décharge**
+
+**Restitution ONT Wi-Fi 6– GPON et remise d’un modem ONT Wi-Fi 6 XGS-PON**
+
+Je soussigné(e), Madame/Monsieur **……………...........…………………………….,** titulaire de l’abonnement FTTH n° **[Numéro de l'abonnement] ……………………….………………** , atteste par la présente avoir restitué à **Algérie Télécom** le **modem** (ONT) ainsi que son **adaptateur d’alimentation** (Chargeur) en conservant le **pigtail** de mon ancien **ONT** . Le pigtail du nouvel **ONT Wi-Fi 6** devra, quant à lui, être retiré par le conseiller client avant sa remise au client.
+
+- **Référence ancien modem : ……………………………………………………………………………………………………………**
+- **Numéro de série  ancienmodem :…………………………………………………………………………………………………..**
+
+En contrepartie, j’ai reçu un modem **Wi-Fi 6 XGS-PON** , dans le cadre des tarifs en vigueur. Je reconnais avoir remis l’équipement en bon état de fonctionnement et accepte les termes et conditions de cette restitution et du changement d’équipement.
+
+- **Référence du modem Wi-Fi 6 :** …………………………………………………………………………………………………….
+- **Numéro de série modem Wi-Fi 6 :** ……………………………………………………………………………………………….
+
+**Pour l’Agence Commerciale                                                                                     L’intéressé**
+
+**Nom et prénom : …………………………………………                            Nom et prénom : ……………………………**
+
+**Fonction ……………………………………**
+
+**Signature                                                                                        Signature**
+
+**Fait à ……………………………, le ………/………/………**
