@@ -8,6 +8,9 @@ class Settings(BaseSettings):
     Qdrant_Api_Key: str
     Qdrant_URL: str
     OPENAI_API_KEY: str
+    JINA_API_KEY: str
+    COLLECTION_NAME: str
+    MODEL_NAME: str
 
 
     class Config:

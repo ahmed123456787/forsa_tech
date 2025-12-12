@@ -1,0 +1,9 @@
+{
+  "collection_name": "forsa_knowledge_semantic_chunk",
+  "total_points": 263,
+  "total_batches": 6,
+  "export_time": 3.247074604034424,
+  "backup_dir": "qdrant_backup_20251212_124534",
+  "timestamp": "2025-12-12T12:45:39.187438",
+  "payload_format": "Your format with page_content and metadata"
+}
