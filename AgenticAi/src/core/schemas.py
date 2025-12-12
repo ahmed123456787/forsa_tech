@@ -47,34 +47,7 @@ class ChatResponse(BaseModel):
 
 
 
-class SessionCreateRequest(BaseModel):
-    name: str
-    description: Optional[str] = None
-    
-    class Config:
-        schema_extra = {
-            "example": {
-                "name": "AI Development Session",
-                "description": "Session for discussing AI development strategies"
-            }
-        }
-
-class SessionUpdateRequest(BaseModel):
-    name: Optional[str] = None
-    description: Optional[str] = None
-    
-    class Config:
-        schema_extra = {
-            "example": {
-                "name": "Updated Session Name",
-                "description": "Updated session description"
-            }
-        }
-
-class SessionResponse(BaseModel):
-    id: str
-    name: str
-    description: Optional[str]
-    created_at: str
-    last_updated: str
-    chats: List[dict] = []
+class StreamRequest(BaseModel):
+    """Request model for the streaming endpoint."""
+    question: str
+    category_id: str = "Offres"  
