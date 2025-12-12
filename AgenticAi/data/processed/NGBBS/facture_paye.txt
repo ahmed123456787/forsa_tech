@@ -1,0 +1,100 @@
+# NGBSS Purchase Order Recharge Process - Complete Guide
+
+## Document Information
+- **Title**: Guide d'Utilisation NGBSS - Recharge par Bon de commande (Complément)
+- **Source**: Division Marketing, Communication et Commerciale - Direction Commerciale Grand Public
+- **Date**: March 2019
+- **Purpose**: Supplement guide for handling purchase order recharges for subscribers with full payment relationship in the group
+
+## Prerequisites
+- The purchase order must be registered in a prepaid subscriber account
+- The subscriber must have a "full payment" (paiement complet) relationship within the group
+
+## Process Overview
+This is a supplementary procedure for processing recharges via purchase orders (bon de commande) in the NGBSS system for subscribers who have a complete payment relationship within their group.
+
+## Step-by-Step Process
+
+### Step 1: Group Consultation Verification
+**Action**: Verify the payment relationship during group consultation
+- Navigate to the group consultation view in NGBSS
+- Confirm that the relationship shows as "paiement complet" (full payment)
+- **Key Observation**: At this stage, the account displayed is the group account, not the individual subscriber account
+
+### Step 2: Account Identification
+**Action**: Identify the correct subscriber account
+- Navigate to the "Abonné" (Subscriber) section
+- **Important**: The correct individual account will be noted/displayed in this section
+- The system will show both the group account and the individual subscriber account
+
+### Step 3: Account Selection
+**Action**: Select the appropriate subscriber account
+- Locate the dropdown list (liste déroulante)
+- From the dropdown menu, select the account of the specific subscriber concerned
+- Ensure you're selecting the individual subscriber's account, not the group account
+
+### Step 4: Payment Submission
+**Action**: Submit for payment processing
+- Click on "Soumettre & paiement" (Submit & payment) button
+- This action initiates the payment processing workflow
+
+### Step 5: Payment Method Selection
+**Action**: Confirm purchase order payment method
+- The system will display the "Bon de Commande" (Purchase Order) payment option
+- Verify that this payment method appears correctly
+- Proceed with the purchase order payment process
+
+## Key Points to Remember
+
+1. **Account Hierarchy**: Always distinguish between the group account and the individual subscriber account
+2. **Payment Relationship**: Only applicable for subscribers with "paiement complet" status within their group
+3. **Prepaid Requirement**: Purchase orders must be registered in prepaid subscriber accounts
+4. **Account Selection**: Critical to select the correct subscriber account from the dropdown, not the group account
+5. **Payment Method**: The purchase order payment option should appear after submission
+
+## Common Scenarios
+
+### Scenario: Group Account vs Individual Account
+- **Issue**: Confusion between group and individual accounts
+- **Solution**: Always verify you're in the "Abonné" section and select from the dropdown list
+
+### Scenario: Payment Method Not Appearing
+- **Check**: Ensure the subscriber has full payment relationship status
+- **Check**: Verify the purchase order is registered in a prepaid account
+- **Check**: Confirm you've selected the individual account, not the group account
+
+## Technical Terms
+
+- **NGBSS**: Next Generation Business Support System
+- **Bon de commande**: Purchase Order
+- **Abonné**: Subscriber
+- **Paiement complet**: Full payment / Complete payment relationship
+- **Soumettre**: Submit
+- **Liste déroulante**: Dropdown list
+
+## Quick Process Summary
+
+**5 Simple Steps to Process Purchase Order Recharge:**
+
+1. **Verify Group Status** - Check that subscriber has "paiement complet" (full payment) relationship in group consultation
+2. **Go to Subscriber Section** - Navigate to "Abonné" to find the correct individual account
+3. **Select Account** - Choose the specific subscriber's account from the dropdown list
+4. **Submit** - Click "Soumettre & paiement" button
+5. **Confirm Payment Method** - Verify "Bon de Commande" (Purchase Order) option appears
+
+**Critical Point**: Always select the individual subscriber account, not the group account!
+
+## Important Notes
+
+- This guide is a supplement to the primary purchase order recharge guide
+- The procedure specifically addresses cases where subscribers have group payment relationships
+- Proper account selection is critical to ensure the recharge is applied to the correct subscriber
+- The purchase order payment method should automatically appear after proper account selection and submission
+
+## Usage Context
+
+This process is used by:
+- Customer service representatives
+- Sales personnel in retail locations (points of presence)
+- Back-office staff processing recharges
+- Anyone handling prepaid subscriber recharges via purchase orders in group payment scenarios

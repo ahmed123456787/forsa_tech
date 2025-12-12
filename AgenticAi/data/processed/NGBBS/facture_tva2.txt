@@ -1,0 +1,11 @@
+Date : Mars 2019
+Objectif : Prise en charge des recharges par bon de commande pour les abonnés ayant une relation de paiement total dans le groupe
+Étapes Rapides :
+
+Vérifier le Statut du Groupe - Vérifier la relation "paiement complet" lors de la consultation dans le groupe
+Aller à la Section Abonné - Naviguer vers "Abonné" pour trouver le compte individuel
+Sélectionner le Compte - Choisir le compte de l'abonné concerné dans la liste déroulante
+Soumettre - Cliquer sur "Soumettre & paiement"
+Confirmer le Mode de Paiement - Vérifier que l'option "Bon de Commande" apparaît
+
+Point Critique : Toujours sélectionner le compte de l'abonné individuel, pas le compte du groupew

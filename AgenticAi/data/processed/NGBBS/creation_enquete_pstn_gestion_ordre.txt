@@ -1,0 +1,45 @@
+Date : Décembre 2018
+Partie A : Création Enquête PSTN (8 étapes)
+
+Naviguer - Cliquer "Client" → "Créer une nouvelle Enquête"
+Ajouter - Cliquer "Ajouter une Nouvelle enquête"
+Type d'Enquête - Choisir : Nouvel abonné / Déménagement / Changement d'offre
+Offre Primaire - Cliquer loupe, choisir offre primaire adéquate
+PSTN - Cliquer "PSTN", sélectionner offre, confirmer
+Confirmer - Cliquer "Confirmer"
+Détails - Cocher enquête, remplir adresse, N° Mobile, date, cliquer "Confirmer l'enquête"
+Enregistrée - Étudiée manuellement par CMP
+
+Partie B : Conversion Enquête (14 étapes)
+
+Naviguer - "Gestion d'ordre" → "Consultation des Ordres des enquête"
+Sélectionner - "Consultation des Ordres des Enquête normales"
+Rechercher - Remplir champs, cliquer "Rechercher"
+Convertir - Si "Réalisable", cliquer "Convertir"
+Champs Obligatoires - Mot de passe, N° Mobile
+Attribuer ND - Cliquer "Sélectionner", niveau, "Rechercher", attribuer ND
+Onglets - "Offre" et "Compte", cliquer "Continuer"
+Détails - N° Mobile, date réservation, "Continuer"
+Payer - Cliquer "Payer maintenant"
+Soumettre - Cliquer "Soumettre & Paiement"
+Confirmer - Cliquer "OK"
+Contrat - Si présent : imprimer, signer, "paiement" / Si absent : "Fermer"
+Mode Paiement - Choisir mode, cliquer "Paiement"
+Finaliser - "OK", imprimer reçu, fermer
+
+Partie C : Gestion Ordres - Recherche Spéciale (6 étapes)
+
+Naviguer - "Gestion d'ordre" → "Consulter les Ordres du client"
+Spécial - Cocher "Spécial"
+Plus de Conditions - Cliquer "Plus de condition"
+Critère - Choisir condition de recherche
+Code Client - Saisir, cliquer "Rechercher"
+Détails - Cliquer N° d'ordre
+
+Partie D : Gestion Ordres - Recherche Générale (5 étapes)
+
+Général - Cocher "Général"
+Type - Liste déroulante "Type d'ordre"
+Dates - Sélectionner (intervalle 1 semaine max)
+Opérateur - Option recherche par opérateur
+Résultats - Affichage avec pages/enregistrements

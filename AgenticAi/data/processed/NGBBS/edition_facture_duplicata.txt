@@ -1,0 +1,39 @@
+Objectif : Éditer une facture duplicata
+Étapes :
+
+Naviguer vers Compte - Cliquer sur "Compte" → "Réimpression de facture" → "Rechercher"
+Sélectionner la Facture - Cocher la facture
+Suivant - Cliquer sur "Suivant"
+Soumettre et Paiement - Cliquer sur "Soumettre et paiement"
+Confirmer - Cliquer sur "OK"
+Confirmer à Nouveau - Cliquer sur "Confirmer"
+Soumettre et Paiement - Cliquer sur "Soumettre et paiement"
+Accéder à la Facture - Cliquer sur le lien pour visualiser/imprimer la facture duplicata
+
+
+Tableau de Référence Rapide
+ProcessusÉtapes PrincipalesPoints ClésRecharge Bon de Commande5 étapesSélectionner le compte individuel, pas le groupeFacture TVA 2%8 étapes (enregistrement) + 7 étapes (encaissement)Processus en deux partiesRetour Ressource2 étapes (client) / 9 étapes (non-client)Nécessite Directeur d'Agence pour changement d'étatEnquête PSTN8 étapes (création) + 14 étapes (conversion)Révision manuelle CMP requiseGestion d'Ordre5-7 étapes (variable)Recherche Spéciale vs GénéralePack IDOOM Fibre13 étapesRecharge FTTH après activationFacture Duplicata8 étapesProcessus de réimpression simple
+Modèles de Navigation Communs
+
+Comptes Débiteurs : Utilisé pour les ajustements et les paiements
+Abonné : Accès aux informations abonné et ressources
+Service clientèle : Gérer les opérations non-client
+Gestion d'ordre : Gérer tous les types d'ordres
+Inventaire : Gérer l'inventaire et les états des ressources
+Compte : Gérer les opérations de compte et factures
+
+Dictionnaire des Termes Techniques
+
+ND : Numéro de Désignation
+PSTN : Public Switched Telephone Network (Réseau Téléphonique Commuté)
+FTTH : Fiber To The Home (Fibre jusqu'au domicile)
+VOIP : Voice Over IP (Voix sur IP)
+ONT : Optical Network Terminal (Terminal de Réseau Optique)
+OSS : Operations Support System (Système de Support des Opérations)
+CMP : Center Management Platform (Plateforme de Gestion Centralisée)
+TVA : Taxe sur la Valeur Ajoutée
+ACTEL/ACIEL : Agence Algérie Télécom
+CSG : Customer Service Group (Groupe Service Client)
+TTC : Toutes Taxes Comprises
+HT : Hors Taxes
+DA : Dinar Algérien

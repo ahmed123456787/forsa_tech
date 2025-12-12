@@ -1,0 +1,33 @@
+Objectif : Retourner ressource vendue et rembourser le montant
+Prérequis :
+
+Utilisateur et ressource même organisation (ACIEL/Point de Présence)
+Montant caisse ≥ montant vente
+Changement d'état par Directeur Agence uniquement
+Reçu paiement nécessaire pour non-client
+
+Cas 1 : Retour Client (2 étapes)
+
+Naviguer - Cliquer "Abonné" → "Ressource"
+Réserver Retour - Cocher ressource, cliquer "Réserver le retour CSG"
+
+Cas 2 : Retour Non-Client (9 étapes)
+
+Naviguer - Cliquer "Service clientèle" → "Ressources pour les clients non-existants"
+Noter Reçu - Noter le Numéro du Reçu de paiement
+Rechercher - "Numéro de référence d'ordre" = Numéro Reçu OU "Nom et Prénom" + "order Date"
+Sélectionner - Cocher ressource, cliquer "Suivant"
+Soumettre - Système génère remboursement, cliquer "Soumettre & paiement"
+Rembourser - Cliquer "Rembourser"
+Compléter - Continuer opération de remboursement
+Vérifier - État ressource = "Rendu"
+
+Changement État vers Normal (6 étapes)
+
+Naviguer - "Inventaire" → "Changer l'état d'une ressource"
+Sélectionner État - Liste déroulante "État" → "rendu"
+Rechercher - Choisir condition (rang/liste/fichier), cliquer "Consulter"
+Changer - Liste "Nouvel état" → "Normal"
+Soumettre - Cocher ressource, cliquer "Soumettre"
+Vérifier - État = "Normal"
+

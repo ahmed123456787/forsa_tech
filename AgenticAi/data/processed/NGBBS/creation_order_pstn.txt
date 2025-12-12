@@ -1,0 +1,107 @@
+Objectif : Créer une enquête PSTN et gérer les ordres
+Partie A : Création Enquête PSTN
+Étapes :
+
+Naviguer vers Enquête - Cliquer sur "Client" → "Créer une nouvelle Enquête"
+Ajouter une Enquête - Cliquer sur "Ajouter une Nouvelle enquête"
+Sélectionner le Type d'Enquête - Choisir parmi :
+
+Enquête pour Nouvel abonné
+Enquête pour Déménagement
+Enquête pour Changement d'offre
+
+
+Sélectionner l'Offre Primaire - Cliquer sur la loupe pour choisir l'offre primaire adéquate
+Choisir PSTN - Cliquer sur "PSTN", sélectionner l'offre primaire, confirmer
+Confirmer la Sélection - Cliquer sur "Confirmer"
+Remplir les Détails :
+
+Cocher l'enquête
+Remplir les informations de l'adresse
+Saisir le N° Mobile et la date
+Cliquer sur "Confirmer l'enquête"
+
+
+Enquête Enregistrée - L'enquête est enregistrée et sera étudiée manuellement par le CMP
+
+Partie B : Consulter le Résultat de l'Enquête
+Étapes :
+
+Naviguer vers Gestion d'Ordre - Cliquer sur "Gestion d'ordre" → "Consultation des Ordres des enquête"
+Sélectionner Enquête Normale - Choisir "Consultation des Ordres des Enquête normales"
+Rechercher - Remplir les autres champs de recherche si nécessaire, cliquer sur "Rechercher"
+Si Réalisable - L'enquête est "Réalisable", cliquer sur "Convertir" pour continuer
+Remplir les Champs Obligatoires - Saisir le mot de passe et le N° Mobile
+Attribuer le ND :
+
+Cliquer sur "Sélectionner"
+Sélectionner le Niveau
+Cliquer sur "Rechercher"
+Attribuer le ND
+
+
+Compléter les Onglets - Compléter les étapes dans les onglets "Offre" et "Compte", cliquer sur "Continuer"
+Entrer les Détails - Saisir le N° Mobile et la date réservation, cliquer sur "Continuer"
+Payer Maintenant - Cliquer sur "Payer maintenant"
+Soumettre le Paiement - Cliquer sur "Soumettre & Paiement"
+Confirmer - Cliquer sur "OK"
+Gérer le Contrat :
+
+Si le client est présent : Imprimer le contrat, ajouter le contrat après la signature du client, cliquer sur "paiement"
+Si le client n'est pas présent : Cliquer sur "Fermer la page en cours"
+
+
+Paiement - Choisir le mode de paiement, cliquer sur "Paiement"
+Compléter - Cliquer sur "OK", imprimer le reçu de paiement, fermer la page en cours
+
+Partie C : Gestion des Ordres - Consultation des Ordres du Client
+Recherche Spéciale (pour un client spécifique) :
+
+Naviguer - Cliquer sur "Gestion d'ordre" → "Consulter les Ordres du client"
+Cocher Spécial - Sélectionner "Spécial"
+Plus de Conditions - Cliquer sur "Plus de condition"
+Choisir le Critère - Choisir une des conditions de recherche
+Entrer le Code - Saisir le "code Client", cliquer sur "Rechercher"
+Voir les Détails - Cliquer sur le N° d'ordre pour consulter le détail de l'ordre
+
+Recherche Générale (par ACTEL, agent, dates, type) :
+
+Cocher Général - Sélectionner "Général"
+Choisir le Type - Choisir dans la liste déroulante "Type d'ordre"
+Sélectionner les Dates - Sélectionner la date (NB : intervalle d'une semaine pour la recherche)
+Recherche par Opérateur - Option de recherche par "opérateur"
+Voir les Résultats - Les résultats s'affichent (NB : voir Nombre de pages et enregistrements)
+
+Partie D : Consultation des Ordres d'Enquêtes
+Méthode 1 : Ordres des Enquêtes Normales
+
+Naviguer - Cliquer sur "Gestion d'ordre" → "Consulter les Ordres du client"
+Sélectionner Normal - Cocher sur "Consultation des Ordres des enquêtes normales"
+Type Optionnel - Dans la liste déroulante choisir Type d'ordre (facultatif)
+Plage de Dates - Choisir entre deux dates
+Options de Recherche :
+
+Par opérateur
+Par nom client
+Par nom de l'offre
+Par résultat de l'enquête
+
+
+Rechercher - Cliquer sur "Rechercher"
+Résultats :
+
+Si le résultat de l'enquête est "Succès", cliquer sur "Convertir" pour continuer la création abonné
+Si "Succès" dans "Convertir le résultat" et le bouton "Convertir" grisé, l'enquête a déjà été prise en charge
+
+
+
+Méthode 2 : Ordres des Enquêtes En Attente
+
+Sélectionner En Attente - Cocher "Consultation des ordres des enquêtes En attente"
+Recherche par Type - Faire la recherche par "type d'ordre"
+Sélectionner la Date - Choisir la date et cliquer sur "Rechercher"
+Gérer les Résultats :
+
+Si la réponse OSS est "Négative" : Cliquer sur "Modifier", faire la modification (offre primaire ou Adresse), cliquer sur "Soumettre", puis "Redispatch" pour renvoyer l'enquête à l'OSS
+Si lors de la création on a utilisé "l'enquête en attente" : Cliquer sur "Continue" pour envoyer l'enquête pour étude vers l'OSS
+Pour annuler une enquête : Cliquer sur "Annuler la commande"

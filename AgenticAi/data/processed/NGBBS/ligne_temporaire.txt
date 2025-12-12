@@ -1,0 +1,50 @@
+Objectif : Créer ligne temporaire pour courte durée (élections, examens)
+Définition :
+3 cas : Nouvelle ligne / Prolongation durée / Modification vers ligne permanente
+Catégories Éligibles :
+
+Professionnel : Administration (301), Ministère (28), École (30), Ambassade (32)
+Conventionné : DGSN (6), MICL (45), École primaire (48)
+
+Méthode 1 : Création par Vente Individuelle (13 étapes)
+
+Naviguer - Cliquer "Vente individuel"
+Recherche - Choisir "Type", "Clé de Recherche" = "temporaire", rechercher
+Offre - Choisir offre primaire, "Pour en savoir"
+Adresse - Remplir "Nouvelle adresse", "consultation ressources OSS", "Continuer"
+Base - Remplir "Information de base"
+Attribut - Dans "Offre", cliquer "Attribut d'offre" (bouton vert)
+Cycle - "Subscription Cycle", choisir nombre de cycles (durée)
+Confirmer - "OK"
+Réservation - Remplir "Information de réservation", "Continuer"
+Payer - "Payer maintenant"
+Mode 1 - "Paiement sur place" → "Soumettre & paiement" → "Paiement"
+Mode 2 - "Mode de paiement", "Type de changement" = "Ajout sur compte", "Soumettre & paiement"
+Fermer - "Fermez la page en cours"
+
+Méthode 2 : Création par Enquête (7 étapes)
+
+Naviguer - "Créer une nouvelle enquête"
+Ajouter - "Ajouter une nouvelle enquête"
+Type - Type d'enquête = "nouvel abonné", "Rechercher"
+Recherche - "Type", "Clé de Recherche" = "temporaire", rechercher
+Offre - Cocher offre primaire, "Confirmer"
+Confirmer - Cliquer "Confirmer"
+Détails - Cocher enquête, remplir adresse/réservation, "Confirmer l'enquête", suivre guide PSTN
+
+Prolongation (5 étapes)
+
+Naviguer - "Offre" → "Gestion de la validité des offres temporaires"
+Renouveler - Cliquer "Renouveler"
+Cycles - "No. De mois", choisir nombre de cycles, "Suivant"
+Soumettre - "Soumettre & paiement"
+Fermer - "Fermer la page en cours"
+
+Modification vers Permanente (6 étapes)
+
+Changement - Cliquer "Changement d'offre"
+Sélectionner - "Sélectionner une offre primaire"
+Offre - Cocher offre primaire, "Mode effective" = "Cycle suivant", "Confirmer"
+Suivant - Cliquer "Suivant" (état offre = supprimer)
+Soumettre - "Soumettre & paiement"
+Fermer - "Fermer la page en cours"

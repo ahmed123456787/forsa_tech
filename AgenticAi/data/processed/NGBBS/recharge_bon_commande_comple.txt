@@ -1,0 +1,15 @@
+Ce guide complémentaire explique comment gérer une recharge pour un abonné appartenant à un groupe avec une relation de "paiement complet".
+
+Contexte : Le bon de commande doit être enregistré sur un abonné prépayé au sein du groupe.
+Problématique : Lors de la vente, le compte du groupe (postpayé) s'affiche par défaut, mais il faut facturer le compte individuel de l'abonné prépayé concerné.
+
+Procédure clé :
+
+Dans l'écran de Vente de ressource pour client, après avoir sélectionné le client (groupe), vérifier la liste des abonnés.
+
+Identifier l'abonné prépayé concerné dans le tableau (Flag de paiement : Prépayé).
+
+Avant de payer, dans la section Compte de paiement, choisir manuellement le compte de l'abonné prépayé (ex: 32728597) dans la liste déroulante, et non le compte du groupe.
+
+Cliquer sur Soumettre & paiement. L'option Bon de Commande apparaîtra alors comme méthode de paiement.
+

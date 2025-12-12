@@ -1,0 +1,22 @@
+Objectif : Enregistrement et encaissement de la facture complémentaire TVA 2%
+Partie A : Enregistrement (8 étapes)
+
+Naviguer vers Ajustement - Cliquer "Comptes Débiteurs" → "Demande d'ajustement"
+Sélectionner Prépaiement - Cliquer "Prépaiement" → "Saisir ND" → "Rechercher"
+Sélectionner Paramètres - Niveau de compte, Notes de débit, Raison, Cycle de facturation
+Entrer Détails - Description : "Facture complémentaire TVA 2%"
+Saisir Montant - Saisir le montant à forcer
+Soumettre - Cliquer "Soumettre"
+Confirmer - Cliquer "Confirmer"
+Succès - Cliquer "D'Accord"
+
+Partie B : Encaissement (7 étapes)
+
+Naviguer vers Paiement - Cliquer "Comptes Débiteurs" → "Paiement"
+Saisir le ND - Introduire le numéro ND
+Détails Paiement - Choisir mode de paiement, description "Facture complémentaire TVA 2%"
+Soumettre - Cliquer "Soumettre"
+Confirmer - Cliquer "Confirmer"
+Imprimer - Cliquer "Imprimer"
+Rechercher Détails - Saisir ND, "Rechercher", cliquer loupe
+

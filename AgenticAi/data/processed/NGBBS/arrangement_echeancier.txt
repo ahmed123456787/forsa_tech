@@ -1,0 +1,64 @@
+A. Types et Règles
+Le système propose deux solutions pour éviter que le client n'apparaisse dans les listes d'impayés (Debt Collection) :
+
+Arrangement de Paiement (AOD) : Permet de régler une dette en plusieurs versements.
+
+Montant minimum : 5 000 DA.
+
+Le premier versement ("Down payment") doit être d'au moins 20% du total.
+
+Chaque versement suivant doit aussi être d'au moins 20% du total.
+
+Le nombre maximum d'échéances dépend du montant total (de 2 à 4).
+
+Promesse de Paiement (P2P) : Permet de reporter la date de paiement d'une facture.
+
+Le report ne doit pas dépasser 30 jours.
+
+B. Étapes de Création
+
+Accès : Aller dans Debt collection > Payment Arrangement Request.
+
+Recherche : Saisir le numéro du client (ND) ou le code de compte, puis cliquer sur Rechercher.
+
+Sélection : Choisir une ou plusieurs factures impayées et cliquer sur Create payment arrangement.
+
+Pour un AOD :
+
+Sélectionner Arrangement of debt.
+
+Définir les versements en choisissant un mode : Versements égaux (par nombre, montant ou pourcentage) ou Versements inégaux (saisir chaque date et montant manuellement). Le premier versement doit toujours représenter au moins 20% du total.
+
+Valider en cliquant sur Submit puis Yes. Imprimer la lettre d'engagement avec Print.
+
+Pour une P2P :
+
+Sélectionner Promise to pay.
+
+Choisir une nouvelle date de paiement (dans les 30 jours).
+
+Valider en cliquant sur Submit puis Yes. La lettre d'engagement peut aussi être imprimée.
+
+C. Validation (Approbation)
+
+Accès : Debt collection > Payment arrangement Approval.
+
+Rechercher l'arrangement, consulter les détails avec l'icône loupe.
+
+Valider ou rejeter en cliquant sur l'icône Approval, choisir Pass ou Reject, et confirmer avec Save puis Yes.
+
+D. Encaissement
+
+Accès : Compte Débiteurs > Paiement.
+
+Rechercher le client. Accepter la proposition de "Paiement échelonné" en cliquant sur Oui.
+
+Choisir le mode de paiement, saisir le montant, et valider avec Soumettre puis Confirmer.
+
+Le reçu peut être édité via Imprimer.
+
+E. Consultation
+Les arrangements peuvent être consultés via les fonctions de recherche. Utilisez les onglets comme Installment details (pour voir les échéances), Payment logs (pour l'historique des paiements), ou Outstanding invoice (pour les factures concernées) pour un suivi complet.
+
+Ce processus permet de gérer intégralement un arrangement, de son accord jusqu'au paiement final et au suivi.
+

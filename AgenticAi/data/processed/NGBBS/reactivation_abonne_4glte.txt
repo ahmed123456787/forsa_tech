@@ -1,0 +1,43 @@
+Étape 1 : Lancement de la Vente
+
+Cliquez sur "VOIP Sale" ou "FTTX Sale".
+
+Choisissez l'offre primaire demandée par le client (par exemple, "Idoom Fibre 2 Mbps VOIP").
+
+Étape 2 : Saisie des Informations de Base
+
+Remplissez l'onglet "Information de base" :
+
+Info d'abonné : Langue, numéro de service, mot de passe, numéro de contact, ID équipement.
+
+Info de souscription : Nom de l'offre, mode d'activation (Automatique), type télécom.
+
+Saisissez l'adresse complète du client.
+
+Étape 3 : Gestion des Offres et Ressources
+
+Cliquez sur "Plus d'offres" uniquement si le client souhaite ajouter des options supplémentaires. Pour le FTTH, aucune offre supplémentaire n'est requise à cette étape.
+
+Cliquez sur "Plus de ressources" pour sélectionner et "synchroniser avec l'ONT" (le modem optique).
+
+Étape 4 : Compte et Paiement
+
+Dans l'onglet "Compte", vérifiez la liste et cliquez sur "Continuer".
+
+Vérifiez le panier, cliquez sur "Ajouter plus" si nécessaire, puis sur "Payer maintenant".
+
+Finalisez la transaction en cliquant sur "Soumettre & paiement".
+
+Étape 5 : Après la Vente et Recharge
+
+Après validation, l'état de l'abonné FTTH passe à "Inactif" jusqu'à la mise en service.
+
+Pour recharger un pack FTTH, allez dans "Offre" > "Gestion de la validité des offres prépayées", cliquez sur "Nouveau", sélectionnez le nombre de cycles et validez.
+
+Points Importants à Retenir
+Tarifs 2019 : Les frais d'accès s'élèvent à 4999 DA TTC et les frais d'installation à 2000 DA TTC.
+
+Spécificité FTTH : Pour une souscription FTTH, choisissez l'offre primaire sans ajouter d'offre supplémentaire lors de l'étape 3. La recharge FTTH se fait après la mise en service.
+
+Processus : Suivez les onglets dans l'ordre : Souscription → Paiement → Succès.
+

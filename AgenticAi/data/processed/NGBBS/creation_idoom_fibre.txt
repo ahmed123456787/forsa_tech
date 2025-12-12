@@ -1,0 +1,41 @@
+Objectif : Création du nouveau Pack IDOOM Fibre sur le SI NGBSS
+Informations Importantes :
+
+Création VOIP : Se fait normalement
+Différence FTTH : On choisit l'offre primaire sans ajouter d'offre supplémentaire
+Recharge FTTH : Se fera après la mise en service si le client le souhaite
+Frais d'accès : Modem Optique ONT + Accès Internet à très haut débit + Accès à la téléphonie Fixe = 4999 DA TTC
+Frais d'installation : Frais d'installation + Frais de raccordement + Prise Optique = 2000 DA TTC
+
+Étapes :
+Partie A : Création VOIP
+
+Naviguer - Cliquer sur "VOIP Sale" et choisir l'offre primaire
+Informations de Base - Remplir les "Information de base"
+Offres Additionnelles - Cliquer sur "Plus d'offres" et choisir les offres demandées par le client
+Ressources - Cliquer sur "Plus de ressources", choisir l'ONT, cliquer sur "synchroniser avec ONT"
+Continuer - Cliquer sur "Continuer"
+
+Partie B : Ajout FTTH
+
+Ajouter Plus - Cliquer sur "Ajoute plus"
+FTTX Sale - Cliquer sur "FTTX Sale"
+Offre Primaire - Choisir l'"offre primaire" (selon le choix du client)
+Informations de Base - Remplir les "Information de base"
+Section Offre - Dans "Offre", pas besoin d'ajouter l'offre supplémentaire
+Continuer la Création - On continue la création
+Payer Maintenant - Cliquer sur "Payer maintenant" et continuer
+Vérifier le Statut - Après que l'ordre soit "complété", l'état de l'abonné FTTH est "Inactif"
+
+Partie C : Recharge FTTH
+
+Naviguer vers Offre - Cliquer sur "Offre" → "Gestion de la validité des offres prépayées"
+Nouvelle Recharge :
+
+Cliquer sur "Nouveau"
+"Offre supplémentaire" est donnée d'office selon l'offre primaire choisie auparavant
+Sur la liste déroulante "No de mois", sélectionner le nombre de cycles
+Cliquer sur "Suivant"
+
+
+Soumettre le Paiement - Cliquer sur "Soumettre & paiement" et continuer

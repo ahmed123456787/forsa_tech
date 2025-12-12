@@ -1,0 +1,42 @@
+Ce guide explique comment changer le type d'article d'une ressource en stock (ex: cartes de recharge) et comment procéder à leur vente en gros.
+
+Partie 1 : Changer un article de ressource
+
+Accès : Allez dans Inventaire > Changer un article de ressource.
+
+Méthodes : Trois façons de sélectionner les numéros de série des cartes à modifier :
+
+Par Rang : Spécifier une plage de numéros de série (ex: de 9000000000 à 9000000009).
+
+Par Liste : Saisir manuellement une liste de numéros.
+
+Par Fichier : Importer un fichier texte (.txt) contenant les numéros.
+
+Action : Choisir le nouvel article de destination (ex: "Lot 10 1000DA KMSCYBER"), sélectionner toutes les lignes et soumettre.
+
+Partie 2 : Vente de ressources (pour un client)
+
+Accès : Allez dans Service clientèle > Vente de ressource pour client.
+
+Processus :
+
+Rechercher le client (par code client, etc.).
+
+Choisir le type de ressource Voucher Card et rechercher "lot".
+
+Sélectionner le produit désiré (ex: Lot 10 1000DA).
+
+Saisir les numéros de série par l'une des trois méthodes :
+
+Manuelle (séparés par des virgules, max 400).
+
+Fichier texte (un numéro par ligne, max 400 lignes, fichier < 5MB).
+
+Séquence (numéro de début + quantité).
+
+Ajouter au panier, vérifier et cliquer sur Payer maintenant.
+
+Choisir le mode de paiement (espèces, chèque certifié ou virement postal) et confirmer.
+
+Public cible : Kiosques Multi-Services, Cybercafés, Librairies, Vendeurs mobiles.
+Note importante : La vente indirecte doit suivre les procédures en vigueur (décharge, facture manuelle).

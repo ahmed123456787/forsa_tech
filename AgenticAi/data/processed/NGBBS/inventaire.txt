@@ -1,0 +1,75 @@
+Date : Décembre 2018
+Partie A : Distribuer une Ressource
+Méthode 1 : Par Rang (8 étapes)
+
+Naviguer - "Inventaire" → "Distribuer une ressource"
+Méthode - Choisir "rang"
+Ressource - "Type de ressource" (Ex: Voucher Card), "code d'article", "État" = normal
+Émetteur - "Département émetteur"
+Cessionnaire - "Département cessionnaire", recherche, saisir département (ex: ACTEL), "Consulter", cocher, "OK"
+Série - "Voucher Card No" : "De" → "Vers", "Quantité" auto, "Consulter"
+Consulter - Par enregistrement/page
+Soumettre - "Sélectionner tous", "Soumettre"
+
+Méthode 2 : Par Liste (3 étapes)
+
+Liste - Écrire numéros de série l'un après l'autre
+Départements - Choisir émetteur et cessionnaire
+Soumettre - Cliquer "Soumettre"
+
+Méthode 3 : Par Fichier (4 étapes)
+
+Fichier - Format texte "txt"
+Format - Un numéro par ligne
+Départements - Émetteur et cessionnaire
+Soumettre - "Soumettre", "Lancer une opération"
+
+Partie B : Prendre une Note (6 étapes)
+
+Naviguer - "Inventaire" → "Prendre une note"
+Recherche - Départements ou autre condition, "Soumettre"
+Sélection - Cocher résultat, "Soumettre"
+Prendre - "Prendre" (peut voir détails)
+Confirmer - "OK"
+Lancer - "Lancer une opération"
+
+Imprimer Note (9 étapes)
+
+Naviguer - "Inventaire" → "Imprimer une note"
+Recherche - Départements, "Consulter"
+Détail - Cliquer "Détail"
+Imprimer - Cocher "AT", "Imprimer note"
+Attachement - Cliquer "Attachement"
+Pick Note - Cocher "Pick Note", "Fichier", rechercher note signée
+Signer - Note signée par département émetteur
+Télécharger - Télécharger dans "Fichier", "Soumettre"
+Lancer - "Lancer une opération"
+
+Partie C : Recevoir une Note (8 étapes)
+
+Naviguer - "Inventaire" → "Recevoir une note"
+Recherche - "Département cessionnaire", "Consulter"
+Sélection - Cocher note, "Soumettre"
+Recevoir - "Recevoir" (peut voir détails)
+Confirmer - "OK"
+Lancer - "Lancer une opération"
+
+Consulter et Attacher (8 étapes)
+
+Naviguer - "Inventaire" → "Consulter une note"
+Recherche - Département émetteur, cocher "Historique", "Consulter"
+Détail - Cliquer "Détail"
+Retour - "Retour" (voir détails seulement)
+Attachement - Cliquer "Attachement"
+Télécharger - "Téléchargement"
+Receive Note - Cocher "Receive Note", "Fichier", note signée cessionnaire
+Finaliser - Télécharger, "Soumettre", "Lancer une opération"
+
+Partie D : Retourner une Ressource (6 étapes)
+
+Naviguer - "Inventaire" → "Retourner une ressource"
+Recherche - Condition + méthode (rang/liste/fichier), Ex: "Voucher Card No" De→Vers, "Consulter"
+Sélection - "Sélectionner tous", "Soumettre"
+Lancer - "Lancer une opération" (Numéro note disponible)
+Consulter - Département émetteur, "Historique", "Consulter", consulter/imprimer note
+Vérifier - "Inventaire de ressource", condition recherche, "Consulter"

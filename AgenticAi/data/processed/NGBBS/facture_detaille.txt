@@ -1,0 +1,39 @@
+Ce guide explique comment ajouter manuellement des frais détaillés (une offre spécifique appelée "FADET") à la facture d'un client dans le système NGBSS.
+
+Procédure pour ajouter les frais :
+
+Rechercher le client : Sélectionner le Numéro du client (ND).
+
+Accéder à la modification : Cliquer sur « Changement d'offre ».
+
+Ajouter la nouvelle offre :
+
+Cliquer sur « Plus d'offre ».
+
+Dans le nom de l'offre, introduire « fadet » et cliquer sur la loupe pour rechercher.
+
+Sélectionner l'offre « FADET Sur demande ».
+
+Introduire la quantité (ex: "2") et cliquer sur « suivant », puis confirmer par « OK ».
+
+Finaliser l'opération :
+
+Cliquer sur « Soumettre et paiement ».
+
+Sélectionner le mode de paiement (ex: "Espèces").
+
+Cliquer sur « paiement » pour valider et éditer le reçu.
+
+Alternative pour consulter/télécharger une facture existante :
+Le document mentionne également une procédure pour visualiser une facture détaillée déjà générée :
+
+Sélectionner le ND du client.
+
+Choisir « par bill cycle » (cycle de facturation).
+
+Sélectionner le bimestre concerné.
+
+Cliquer sur « rechercher » pour faire apparaître les factures.
+
+Cliquer sur « télécharger » pour obtenir le fichier de la facture.
+
