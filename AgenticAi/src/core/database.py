@@ -2,7 +2,6 @@ from pymongo import MongoClient
 from src.core.settings import settings
 
 
-
 # Establish Connection
 client = MongoClient(settings.DATABASE_URL)
 
