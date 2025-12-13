@@ -2,14 +2,17 @@ from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from src.api.chat_controller import router as chat_router
 from src.api.recommendation_controller import router as recommendation_router
+from src.api.search_controller import router as search_router
 
 
 app = FastAPI()
 app.include_router(chat_router, prefix="/api")
 app.include_router(recommendation_router, prefix="/api")
+app.include_router(search_router, prefix="/api")
 
 
-app.add_middleware(
+
+app.add_middleware( 
     CORSMiddleware,
     allow_origins=["*"], 
     allow_credentials=True,
@@ -21,4 +24,4 @@ app.add_middleware(
 
 if __name__ == "__main__":
     import uvicorn
-    uvicorn.run("main:app", host="127.0.0.1",port=8002,reload=True)
+    uvicorn.run("main:app", host="127.0.0.1",port=8001,reload=True)

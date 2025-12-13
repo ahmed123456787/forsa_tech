@@ -44,41 +44,43 @@ async def stream_chat_response(stream_data: StreamRequest):
 
 ########################################################################################
 
-
 @router.post("/chats/", response_model=ChatResponse)
 async def create_chat_response(chat_data: ChatRequest):
     """
     Endpoint that creates a chat with structured question data
+    Handles MULTIPLE categories in a single request
     """
     try:
+        # Initialize response structure to hold all categories
+        all_reponses = {}
         
-        # Build response in the expected format
-        categorie = next(iter(chat_data.question.keys())) if chat_data.question else "categorie_01"
-        questions_map = chat_data.question.get(categorie, {})
+        # Iterate through ALL categories
+        for category_id, questions_map in chat_data.question.items():
+            reponses_map = {}
+            
+            # Process each question in the category
+            for question_id, question_text in questions_map.items():
+                # Call the RAG function to get a response
+                answer = ask_question(question=question_text, category_id=category_id)
+                reponses_map[question_id] = answer
+            
+            # Store all responses for this category
+            all_reponses[category_id] = reponses_map
         
-        # Generate responses for each question using the RAG core
-        reponses_map = {}
-        for question_id, question_text in questions_map.items():
-            # Call the RAG function to get a response
-            answer = ask_question(question=question_text, category_id=categorie)
-            reponses_map[question_id] = answer
-        
-        # Prepare response structure
-        response_data = {categorie: reponses_map}
-        
-        # Create chat directly
+        # Create chat with all responses
         chat_service.create_chat(
             question=chat_data.question,
-            response=response_data,
+            response=all_reponses,
             reference_urls=[]
         )
         
         return ChatResponse(
             equipe=chat_data.equipe,
-            reponses=response_data
+            reponses=all_reponses
         )
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"Error processing chat: {str(e)}")
+
 
 
 ########################################################################################
