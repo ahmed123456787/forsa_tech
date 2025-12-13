@@ -1,0 +1,199 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    /* Algeria Telecom Theme - Light Mode */
+    /* Colors extracted from AT logo: #20b471, #00a959 (green), #2c5eaa (blue) */
+    --background: 0 0% 100%;
+    --foreground: 216 30% 18%;
+
+    --card: 0 0% 100%;
+    --card-foreground: 216 30% 18%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 216 30% 18%;
+
+    /* AT Primary Green - #00a959 / #20b471 */
+    --primary: 152 100% 33%;
+    --primary-foreground: 0 0% 100%;
+
+    /* AT Secondary Blue - #2c5eaa */
+    --secondary: 216 59% 42%;
+    --secondary-foreground: 0 0% 100%;
+
+    --muted: 210 20% 96%;
+    --muted-foreground: 216 20% 46%;
+
+    --accent: 152 60% 94%;
+    --accent-foreground: 152 100% 28%;
+
+    --destructive: 0 84% 60%;
+    --destructive-foreground: 0 0% 100%;
+
+    --border: 216 20% 90%;
+    --input: 216 20% 90%;
+    --ring: 152 100% 33%;
+
+    --radius: 0.625rem;
+
+    /* Custom AT Variables - exact brand colors */
+    --at-green: 152 100% 33%;
+    --at-green-light: 152 72% 41%;
+    --at-blue: 216 59% 42%;
+    --at-light-bg: 210 20% 98%;
+    --at-card: 0 0% 100%;
+    --at-card-hover: 152 30% 97%;
+    --at-sidebar: 216 25% 97%;
+    --at-chat-user: 152 100% 33%;
+    --at-chat-assistant: 210 20% 96%;
+
+    --sidebar-background: 216 25% 97%;
+    --sidebar-foreground: 216 30% 18%;
+    --sidebar-primary: 152 100% 33%;
+    --sidebar-primary-foreground: 0 0% 100%;
+    --sidebar-accent: 152 30% 94%;
+    --sidebar-accent-foreground: 216 30% 18%;
+    --sidebar-border: 216 20% 90%;
+    --sidebar-ring: 152 100% 33%;
+  }
+
+  .dark {
+    /* Algeria Telecom Theme - Dark Mode */
+    --background: 220 20% 10%;
+    --foreground: 210 20% 95%;
+
+    --card: 220 20% 13%;
+    --card-foreground: 210 20% 95%;
+
+    --popover: 220 20% 13%;
+    --popover-foreground: 210 20% 95%;
+
+    /* AT Primary Green - slightly brighter for dark mode */
+    --primary: 152 85% 40%;
+    --primary-foreground: 0 0% 100%;
+
+    /* AT Secondary Blue - slightly brighter for dark mode */
+    --secondary: 216 70% 50%;
+    --secondary-foreground: 0 0% 100%;
+
+    --muted: 220 15% 20%;
+    --muted-foreground: 215 15% 60%;
+
+    --accent: 152 40% 18%;
+    --accent-foreground: 152 80% 60%;
+
+    --destructive: 0 70% 50%;
+    --destructive-foreground: 0 0% 100%;
+
+    --border: 220 15% 22%;
+    --input: 220 15% 22%;
+    --ring: 152 85% 40%;
+
+    /* Custom AT Variables - dark mode */
+    --at-green: 152 85% 40%;
+    --at-green-light: 152 70% 50%;
+    --at-blue: 216 70% 50%;
+    --at-light-bg: 220 20% 12%;
+    --at-card: 220 20% 13%;
+    --at-card-hover: 220 20% 16%;
+    --at-sidebar: 220 20% 11%;
+    --at-chat-user: 152 85% 40%;
+    --at-chat-assistant: 220 15% 18%;
+
+    --sidebar-background: 220 20% 11%;
+    --sidebar-foreground: 210 20% 95%;
+    --sidebar-primary: 152 85% 40%;
+    --sidebar-primary-foreground: 0 0% 100%;
+    --sidebar-accent: 220 15% 18%;
+    --sidebar-accent-foreground: 210 20% 95%;
+    --sidebar-border: 220 15% 22%;
+    --sidebar-ring: 152 85% 40%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground font-sans antialiased;
+    font-family: 'Inter', sans-serif;
+  }
+}
+
+.card-glow-overlay {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  opacity: 0.6;
+  background: radial-gradient(120% 120% at 20% 20%, rgba(44, 94, 170, 0.08), transparent);
+}
+
+@layer utilities {
+  .text-gradient {
+    @apply bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent;
+  }
+
+  .text-gradient-at {
+    background: linear-gradient(135deg, #00a959 0%, #20b471 50%, #2c5eaa 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+
+  .glass-effect {
+    @apply bg-card/90 backdrop-blur-xl border border-border/50;
+  }
+
+  .at-gradient-bg {
+    background: linear-gradient(135deg, hsl(var(--at-green) / 0.08) 0%, hsl(var(--at-blue) / 0.08) 100%);
+  }
+
+  .at-gradient-border {
+    border-image: linear-gradient(135deg, #00a959, #2c5eaa) 1;
+  }
+
+  .glow-green {
+    box-shadow: 0 4px 20px hsl(var(--at-green) / 0.25);
+  }
+
+  .glow-blue {
+    box-shadow: 0 4px 20px hsl(var(--at-blue) / 0.25);
+  }
+
+  .chat-bubble-user {
+    @apply bg-primary text-primary-foreground rounded-2xl rounded-br-sm;
+  }
+
+  .chat-bubble-assistant {
+    @apply bg-muted text-foreground rounded-2xl rounded-bl-sm border border-border/50;
+  }
+
+  .at-card {
+    @apply bg-card border border-border rounded-xl shadow-sm hover:shadow-md hover:border-primary/30 transition-all duration-300;
+  }
+}
+
+/* Scrollbar Styling */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: hsl(var(--background));
+}
+
+::-webkit-scrollbar-thumb {
+  background: hsl(var(--muted));
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: hsl(var(--muted-foreground));
+}
