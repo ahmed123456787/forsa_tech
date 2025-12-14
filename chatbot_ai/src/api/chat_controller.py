@@ -6,10 +6,11 @@ from src.core.chat_service import chat_service
 from src.core.schemas import ChatRequest, ChatResponse
 from src.rag_core.llm_generator import ask_question 
 from src.rag_core.llm_generator import ask_question, ask_question_stream
+import asyncio
 
 
 router = APIRouter()
-
+ 
 
 async def stream_generator(question: str, category_id: str):
     """
@@ -54,33 +55,38 @@ async def create_chat_response(chat_data: ChatRequest):
         # Initialize response structure to hold all categories
         all_reponses = {}
         
-        # Iterate through ALL categories
-        for category_id, questions_map in chat_data.question.items():
-            reponses_map = {}
+        # Wrap the processing logic with a timeout (240 seconds)
+        async def process_chat():
+            # Iterate through ALL categories
+            for category_id, questions_map in chat_data.question.items():
+                reponses_map = {}
+                
+                # Process each question in the category
+                for question_id, question_text in questions_map.items():
+                    # Call the RAG function to get a response
+                    answer = ask_question(question=question_text, category_id=category_id)
+                    reponses_map[question_id] = answer
+                
+                # Store all responses for this category
+                all_reponses[category_id] = reponses_map
             
-            # Process each question in the category
-            for question_id, question_text in questions_map.items():
-                # Call the RAG function to get a response
-                answer = ask_question(question=question_text, category_id=category_id)
-                reponses_map[question_id] = answer
-            
-            # Store all responses for this category
-            all_reponses[category_id] = reponses_map
+            # Create chat with all responses
+            chat_service.create_chat(
+                question=chat_data.question,
+                response=all_reponses,
+                reference_urls=[]
+            )
         
-        # Create chat with all responses
-        chat_service.create_chat(
-            question=chat_data.question,
-            response=all_reponses,
-            reference_urls=[]
-        )
+        await asyncio.wait_for(process_chat(), timeout=1800.0)
         
         return ChatResponse(
             equipe=chat_data.equipe,
             reponses=all_reponses
         )
+    except asyncio.TimeoutError:
+        raise HTTPException(status_code=408, detail="Request timeout: Processing took too long")
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"Error processing chat: {str(e)}")
-
 
 
 ########################################################################################
